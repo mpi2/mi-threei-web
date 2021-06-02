@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mi-threei-web/static/css/main.139512e6.chunk.css",
-    "main.js": "/mi-threei-web/static/js/main.331b42d2.chunk.js",
-    "main.js.map": "/mi-threei-web/static/js/main.331b42d2.chunk.js.map",
+    "main.js": "/mi-threei-web/static/js/main.70f594b9.chunk.js",
+    "main.js.map": "/mi-threei-web/static/js/main.70f594b9.chunk.js.map",
     "runtime-main.js": "/mi-threei-web/static/js/runtime-main.c9b62571.js",
     "runtime-main.js.map": "/mi-threei-web/static/js/runtime-main.c9b62571.js.map",
     "static/js/2.a5d281ca.chunk.js": "/mi-threei-web/static/js/2.a5d281ca.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c9b62571.js",
     "static/js/2.a5d281ca.chunk.js",
     "static/css/main.139512e6.chunk.css",
-    "static/js/main.331b42d2.chunk.js"
+    "static/js/main.70f594b9.chunk.js"
   ]
 }
