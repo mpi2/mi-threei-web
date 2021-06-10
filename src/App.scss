@@ -1,0 +1,25 @@
+$primary: #0a72b5;
+$secondary: #00b2d5;
+$success: #baff29;
+$danger: #ed6a5a;
+$info: #c2e7da;
+$warning: #ffc107;
+$light: #f8f9fa;
+$dark: #1a1b41;
+$enable-gradients: false;
+$spacer: 0.7rem;
+$border-width: 3px;
+$btn-border-radius: 0;
+$font-family-base: "Open Sans", "Segoe UI", Oxygen, Ubuntu, Cantarell, Roboto,
+  "Helvetica Neue", sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Roboto&display=swap");
+@import "~bootstrap/scss/bootstrap";
+
+.main-content {
+  min-height: calc(100vh - 290px);
+}
+
+.footer {
+  padding: 10px;
+  height: 280px;
+}
