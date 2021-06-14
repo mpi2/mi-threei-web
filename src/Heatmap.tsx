@@ -3,11 +3,14 @@
 // yarn add @nivo/core @nivo/heatmap
 import { ResponsiveHeatMapCanvas } from "@nivo/heatmap";
 import "./Heatmap.scss";
-import { valueMap, cellTypes } from "./Constants";
+import { valueMap, cellTypes, procedures } from "./Constants";
 import { useHistory } from "react-router-dom";
 
 const cellTypeLabelMap: any = {};
-cellTypes.forEach(({ key, display }) => (cellTypeLabelMap[key] = display));
+const colTypes = cellTypes
+  .filter((c) => c.type === "procedure")
+  .concat(procedures);
+colTypes.forEach(({ key, display }) => (cellTypeLabelMap[key] = display));
 
 export const MyResponsiveHeatMapCanvas = ({
   data,
@@ -23,7 +26,7 @@ export const MyResponsiveHeatMapCanvas = ({
       data={data}
       keys={columns.map((c) => c.key)}
       indexBy="gene"
-      margin={{ top: 180, right: 0, bottom: 20, left: 120 }}
+      margin={{ top: 230, right: 0, bottom: 50, left: 120 }}
       pixelRatio={1}
       minValue="0"
       maxValue="3"
@@ -62,7 +65,7 @@ export const MyResponsiveHeatMapCanvas = ({
       cellHoverOpacity={1}
       cellHoverOthersOpacity={0.5}
       onClick={(e) => {
-        const type = cellTypes.find((c) => c.key == e.xKey).type;
+        const type = colTypes.find((c) => c.key == e.xKey).type;
         history.push(
           `data/details/${e.yKey}/${
             type === "cell" ? "by-cell-type" : "by-procedure"

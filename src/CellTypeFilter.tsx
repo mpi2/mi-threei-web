@@ -6,16 +6,18 @@ import { Typeahead } from "react-bootstrap-typeahead";
 export interface ICellTypeFilterProps {
   options: Array<any>;
   onChange(options: string): any;
+  type: string;
 }
 
 export const CellTypeFilter: FunctionComponent<ICellTypeFilterProps> = ({
   options,
   onChange,
+  type,
 }) => {
   const [selectedCellType, setSelectedCellType] = useState([]);
   return (
     <Form.Group style={{ marginTop: "20px" }}>
-      <Form.Label>Filter by cell type significance</Form.Label>
+      <Form.Label>Filter by {type} significance</Form.Label>
       <Typeahead
         id="basic-typeahead-multiple"
         single
@@ -25,7 +27,7 @@ export const CellTypeFilter: FunctionComponent<ICellTypeFilterProps> = ({
         }}
         labelKey="display"
         options={options}
-        placeholder="Select cell type..."
+        placeholder={`Select ${type}...`}
         selected={selectedCellType}
         clearButton
       />

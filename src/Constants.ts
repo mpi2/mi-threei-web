@@ -35,3 +35,52 @@ export const cellTypes = [
     type: "procedure",
   },
 ];
+
+export const procedures = [
+  {
+    key: "antinuclearAntibodies",
+    display: "Anti-nuclear Antibodies",
+    type: "procedure",
+  },
+  { key: "boneMarrow", display: "Bone Marrow", type: "procedure" },
+  {
+    key: "cytotoxicTCellFunction",
+    display: "Cytotoxic T Cell Function",
+    type: "procedure",
+  },
+  { key: "earEpidermis", display: "Ear Epidermis", type: "procedure" },
+  { key: "haematology", display: "Haematology", type: "procedure" },
+  {
+    key: "homozygousFertility",
+    display: "Homozygous Fertility",
+    type: "procedure",
+  },
+  {
+    key: "homozygousViabilityAtP14",
+    display: "Homozygous viability at P14",
+    type: "procedure",
+  },
+  {
+    key: "mesentericLymphNode",
+    display: "Mesenteric Lymph Node",
+    type: "procedure",
+  },
+  {
+    key: "peripheralBloodLeukocytes",
+    display: "Peripheral Blood Leukocytes",
+    type: "procedure",
+  },
+  { key: "spleen", display: "Spleen", type: "procedure" },
+  { key: "dSSChallenge", display: "DSS Challenge", type: "procedure" },
+  { key: "influenza", display: "Influenza", type: "procedure" },
+  {
+    key: "trichurisChallenge",
+    display: "Trichuris Challenge",
+    type: "procedure",
+  },
+  {
+    key: "salmonellaChallenge",
+    display: "Salmonella Challenge",
+    type: "procedure",
+  },
+];

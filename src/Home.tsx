@@ -8,12 +8,14 @@ import {
   Modal,
   Row,
   Alert,
+  ButtonGroup,
+  ToggleButton,
 } from "react-bootstrap";
 import { MyResponsiveHeatMapCanvas } from "./Heatmap";
 import "react-bootstrap-typeahead/css/Typeahead.css";
 import { GeneFilter } from "./GeneFilter";
 import { CellTypeFilter } from "./CellTypeFilter";
-import { cellTypes } from "./Constants";
+import { cellTypes, procedures } from "./Constants";
 import { Legend } from "./Legend";
 
 export const Home: FunctionComponent = () => {
@@ -28,7 +30,7 @@ export const Home: FunctionComponent = () => {
   const [options, setOptions] = useState([]);
   const [selectedGenes, setSelectedGenes] = useState<Array<string>>([]);
   const [selectedCellType, setSelectedCellType] = useState<any>(null);
-
+  const [exploreBy, setExploreBy] = useState<string>("cell-type");
   let filteredData: Array<any> =
     selectedGenes.length > 0
       ? data.filter((d: any) => selectedGenes.includes(d.gene))
@@ -42,7 +44,10 @@ export const Home: FunctionComponent = () => {
     filteredData.length * 20 > 500 ? filteredData.length * 20 : 500;
 
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/three-i-cell-heatmap.json`)
+    const heatmapUrl = `${process.env.PUBLIC_URL}/three-i-${
+      exploreBy === "cell-type" ? "cell" : "procedure"
+    }-heatmap.json`;
+    fetch(heatmapUrl)
       .then((res) => res.json())
       .then(
         (result) => {
@@ -58,7 +63,7 @@ export const Home: FunctionComponent = () => {
           setError(error);
         }
       );
-  }, []);
+  }, [exploreBy]);
 
   return (
     <Fragment>
@@ -104,7 +109,30 @@ export const Home: FunctionComponent = () => {
       </Jumbotron>
       <Container>
         <h1 className="text-center">Explore 3i data</h1>
-
+        <div className="w-100 text-center my-5">
+          <ButtonGroup toggle>
+            <ToggleButton
+              type="radio"
+              variant="outline-primary"
+              name="radio"
+              value={"cell-type"}
+              checked={exploreBy === "cell-type"}
+              onChange={(e) => setExploreBy(e.currentTarget.value)}
+            >
+              View by cell type
+            </ToggleButton>
+            <ToggleButton
+              type="radio"
+              variant="outline-primary"
+              name="radio"
+              value={"procedure"}
+              checked={exploreBy === "procedure"}
+              onChange={(e) => setExploreBy(e.currentTarget.value)}
+            >
+              View by procedure
+            </ToggleButton>
+          </ButtonGroup>
+        </div>
         {!isLoaded ? (
           "loading"
         ) : (
@@ -118,8 +146,9 @@ export const Home: FunctionComponent = () => {
               </Col>
               <Col>
                 <CellTypeFilter
-                  options={cellTypes}
+                  options={exploreBy === "cell-type" ? cellTypes : procedures}
                   onChange={setSelectedCellType}
+                  type={exploreBy}
                 ></CellTypeFilter>
               </Col>
             </Row>
@@ -166,7 +195,7 @@ export const Home: FunctionComponent = () => {
                 <Legend></Legend>
                 <MyResponsiveHeatMapCanvas
                   data={filteredData}
-                  columns={cellTypes}
+                  columns={exploreBy === "cell-type" ? cellTypes : procedures}
                 ></MyResponsiveHeatMapCanvas>
               </Col>
             </Row>
