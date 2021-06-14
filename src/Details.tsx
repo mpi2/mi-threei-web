@@ -21,7 +21,7 @@ export const Details: FunctionComponent<IDetailsProps> = ({
   const [tableRows, setTableRows] = useState<Array<any>>([]);
   const [tableColumns, setTableColumns] = useState<Array<any>>([]);
   useEffect(() => {
-    fetch(`${process.env.PUBLIC_URL}/data/${gene}.csv`)
+    fetch(`${process.env.PUBLIC_URL}/data/${gene}.tsv`)
       .then((res) => (res !== null ? res.text() : ""))
       .then(
         (result: string) => {
