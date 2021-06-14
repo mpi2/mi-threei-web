@@ -1,0 +1,2567 @@
+[
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fbb"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_PBI_001_001",
+    "parameterName": "Total T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fbc"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_PBI_021_001",
+    "parameterName": "Total T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fbd"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_PBI_002_001",
+    "parameterName": "Alpha beta T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fbe"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_PBI_022_001",
+    "parameterName": "Alpha beta T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fbf"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_IMM_001_001",
+    "parameterName": "Total T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_IMM_070_001",
+    "parameterName": "Total ab T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_MLN_001_001",
+    "parameterName": "Total T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_MLN_063_001",
+    "parameterName": "Total ab T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Population size affected",
+    "cellType": "Total αβ T cells",
+    "parameterId": "MGP_BMI_019_001",
+    "parameterName": "T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Cytotoxic T cell function",
+    "cellSubtype": "Cytotoxic function affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_CTL_001_001",
+    "parameterName": "% lysis"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_PBI_004_001",
+    "parameterName": "CD8+ alpha beta T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_PBI_024_001",
+    "parameterName": "CD8+ alpha beta T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_PBI_010_001",
+    "parameterName": "CD8+ CD44+ CD62L- alpha beta effector T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc8"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_PBI_030_001",
+    "parameterName": "CD8+ CD44+ CD62L- alpha beta effector T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fc9"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_PBI_013_001",
+    "parameterName": "CD8+ KLRG1+ alpha beta T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fca"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_PBI_033_001",
+    "parameterName": "CD8+ KLRG1+ alpha beta T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fcb"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_013_001",
+    "parameterName": "Total CD8+ T cells - % of ab T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fcc"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_014_001",
+    "parameterName": "Effector CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fcd"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_015_001",
+    "parameterName": "Resting CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fce"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_016_001",
+    "parameterName": "Naive CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fcf"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_017_001",
+    "parameterName": "KLRG1+ CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_080_001",
+    "parameterName": "Total CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_081_001",
+    "parameterName": "Effector CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_082_001",
+    "parameterName": "Resting CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_083_001",
+    "parameterName": "Naive CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_IMM_084_001",
+    "parameterName": "KLRG1+ CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_012_001",
+    "parameterName": "Total CD8+ T cells - % of ab T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_013_001",
+    "parameterName": "Effector CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_014_001",
+    "parameterName": "Resting CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd8"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_015_001",
+    "parameterName": "Naive CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fd9"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_016_001",
+    "parameterName": "KLRG1+ CD8+ T cells - % of CD8+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fda"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_073_001",
+    "parameterName": "Total CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fdb"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_074_001",
+    "parameterName": "Effector CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fdc"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_075_001",
+    "parameterName": "Resting CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fdd"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_076_001",
+    "parameterName": "Naive CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fde"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD8 T cells",
+    "parameterId": "MGP_MLN_077_001",
+    "parameterName": "KLRG1+ CD8+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fdf"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_PBI_003_001",
+    "parameterName": "CD4+ alpha beta T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_PBI_023_001",
+    "parameterName": "CD4+ alpha beta T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_PBI_009_001",
+    "parameterName": "CD4+ CD44+ CD62L- alpha beta effector T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_PBI_029_001",
+    "parameterName": "CD4+ CD44+ CD62L- alpha beta effector T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_PBI_012_001",
+    "parameterName": "CD4+ KLRG1+ alpha beta T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_PBI_032_001",
+    "parameterName": "CD4+ KLRG1+ alpha beta T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_004_001",
+    "parameterName": "Total CD4+ T cells - % of ab T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_005_001",
+    "parameterName": "CD4+ T helper cells - % of CD4+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_006_001",
+    "parameterName": "Effector CD4+ T helper cells - % of CD4+ T helper cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe8"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_007_001",
+    "parameterName": "Resting CD4+ T helper cells - % of CD4+ T helper cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fe9"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_008_001",
+    "parameterName": "KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fea"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_071_001",
+    "parameterName": "Total CD4+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7feb"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_072_001",
+    "parameterName": "CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fec"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_073_001",
+    "parameterName": "Effector CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fed"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_074_001",
+    "parameterName": "Resting CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fee"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_IMM_075_001",
+    "parameterName": "KLRG1+ CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fef"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_003_001",
+    "parameterName": "Total CD4+ T cells - % of ab T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_004_001",
+    "parameterName": "CD4+ T helper cells - % of CD4+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_005_001",
+    "parameterName": "Effector CD4+ T helper cells - % of CD4+ T helper cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_006_001",
+    "parameterName": "Resting CD4+ T helper cells - % of CD4+ T helper cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_007_001",
+    "parameterName": "KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_064_001",
+    "parameterName": "Total CD4+ T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_065_001",
+    "parameterName": "CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_066_001",
+    "parameterName": "Effector CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_067_001",
+    "parameterName": "Resting CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff8"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "CD4 T cells",
+    "parameterId": "MGP_MLN_068_001",
+    "parameterName": "KLRG1+ CD4+ T helper cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ff9"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_PBI_008_001",
+    "parameterName": "CD4+ CD25+ alpha beta regulatory T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ffa"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_PBI_028_001",
+    "parameterName": "CD4+ CD25+ alpha beta regulatory T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ffb"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_009_001",
+    "parameterName": "Total Treg cells - % of CD4+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ffc"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_010_001",
+    "parameterName": "Effector Treg cells - % of Treg"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ffd"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_011_001",
+    "parameterName": "Resting Treg cells - % of Treg"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7ffe"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_012_001",
+    "parameterName": "KLRG1+ Treg cells - % of Treg"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a7fff"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_076_001",
+    "parameterName": "Total Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8000"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_077_001",
+    "parameterName": "Effector Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8001"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_078_001",
+    "parameterName": "Resting Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8002"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_IMM_079_001",
+    "parameterName": "KLRG1+ Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8003"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_008_001",
+    "parameterName": "Total Treg cells - % of CD4+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8004"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_009_001",
+    "parameterName": "Effector Treg cells - % of Treg"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8005"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_010_001",
+    "parameterName": "Resting Treg cells - % of Treg"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8006"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_011_001",
+    "parameterName": "KLRG1+ Treg cells - % of Treg"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8007"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_069_001",
+    "parameterName": "Total Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8008"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_070_001",
+    "parameterName": "Effector Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8009"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_071_001",
+    "parameterName": "Resting Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a800a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "Treg cells",
+    "parameterId": "MGP_MLN_072_001",
+    "parameterName": "KLRG1+ Treg cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a800b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_PBI_005_001",
+    "parameterName": "Gamma delta T cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a800c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_PBI_025_001",
+    "parameterName": "Gamma delta T cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a800d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_019_001",
+    "parameterName": "CD5+ gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a800e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_020_001",
+    "parameterName": "Effector gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a800f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_021_001",
+    "parameterName": "Resting gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8010"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_022_001",
+    "parameterName": "KLRG1+ gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8011"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_085_001",
+    "parameterName": "Total gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8012"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_086_001",
+    "parameterName": "CD5+ gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8013"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_087_001",
+    "parameterName": "Effector gd cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8014"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_088_001",
+    "parameterName": "Resting gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8015"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_IMM_089_001",
+    "parameterName": "KLRG1+ gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8016"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_018_001",
+    "parameterName": "CD5+ gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8017"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_019_001",
+    "parameterName": "Effector gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8018"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_020_001",
+    "parameterName": "Resting gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8019"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_021_001",
+    "parameterName": "KLRG1+ gd T cells - % of gd T cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a801a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_078_001",
+    "parameterName": "Total gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a801b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_079_001",
+    "parameterName": "CD5+ gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a801c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_080_001",
+    "parameterName": "Effector gd cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a801d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_081_001",
+    "parameterName": "Resting gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a801e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_MLN_082_001",
+    "parameterName": "KLRG1+ gd T cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a801f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Environment affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_002_001",
+    "parameterName": "DETC coverage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8020"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_003_001",
+    "parameterName": "Vg5+ dendritic epidermal T cell (DETC) count"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8021"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_005_001",
+    "parameterName": "Count of vg5+ DETC contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8022"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Population size affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_006_001",
+    "parameterName": "Count of vg5+ DETC not contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8023"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Environment affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_008_001",
+    "parameterName": "Ratio of vg5+ DETC/LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8024"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Environment affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_009_001",
+    "parameterName": "Ratio of contacting/not contacting vg5+ DETC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8025"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Environment affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_010_001",
+    "parameterName": "Ratio of CD45+ vg5- MHC II- cells/vg5+ DETC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8026"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_011_001",
+    "parameterName": "Average volume of vg5+ DETC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8027"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_013_001",
+    "parameterName": "Average volume of vg5+ DETC contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8028"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_014_001",
+    "parameterName": "Average volume of vg5+ DETC not contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8029"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_016_001",
+    "parameterName": "Average roundness of vg5+ DETC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a802a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_018_001",
+    "parameterName": "Average roundness of vg5+ DETC contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a802b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_019_001",
+    "parameterName": "Average roundness of vg5+ DETC not contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a802c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_021_001",
+    "parameterName": "Average no of branches on vg5+ DETC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a802d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_022_001",
+    "parameterName": "Average no of branches on vg5+ DETC contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a802e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_023_001",
+    "parameterName": "Average no of branches on vg5+ DETC not contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a802f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_025_001",
+    "parameterName": "Average branch length of vg5+ DETC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8030"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_026_001",
+    "parameterName": "Average branch length of vg5+ DETC contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8031"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Shape affected",
+    "cellType": "γδ T cells",
+    "parameterId": "MGP_EEI_027_001",
+    "parameterName": "Average branch length of vg5+ DETC not contacting LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8032"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_PBI_006_001",
+    "parameterName": "NKT cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8033"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_PBI_026_001",
+    "parameterName": "NKT cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8034"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_023_001",
+    "parameterName": "Total NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8035"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_024_001",
+    "parameterName": "Ly6C+ NKT cells - % of NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8036"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_025_001",
+    "parameterName": "Total CD4- NKT cells - % of NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8037"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_026_001",
+    "parameterName": "Effector CD4- NKT cells - % of CD4- NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8038"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_027_001",
+    "parameterName": "Resting CD4- NKT cells - % of CD4- NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8039"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_028_001",
+    "parameterName": "KLRG1+ CD4- NKT cells - % of CD4- NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a803a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_029_001",
+    "parameterName": "Total CD4+ NKT cells - % of NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a803b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_030_001",
+    "parameterName": "Effector CD4+ NKT cells - % of CD4+ NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a803c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_031_001",
+    "parameterName": "Resting CD4+ NKT cells - % of CD4+ NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a803d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_032_001",
+    "parameterName": "KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a803e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_090_001",
+    "parameterName": "Ly6C+ NKT cells - % of lymphocytes"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a803f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_091_001",
+    "parameterName": "Total CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8040"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_092_001",
+    "parameterName": "Effector CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8041"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_093_001",
+    "parameterName": "Resting CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8042"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_094_001",
+    "parameterName": "KLRG1+ CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8043"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_095_001",
+    "parameterName": "Total CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8044"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_096_001",
+    "parameterName": "Effector CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8045"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_097_001",
+    "parameterName": "Resting CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8046"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_IMM_098_001",
+    "parameterName": "KLRG1+ CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8047"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_022_001",
+    "parameterName": "Total NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8048"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_023_001",
+    "parameterName": "Total CD4- NKT cells - % of NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8049"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_024_001",
+    "parameterName": "Effector CD4- NKT cells - % of CD4- NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a804a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_025_001",
+    "parameterName": "Resting CD4- NKT cells - % of CD4- NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a804b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_026_001",
+    "parameterName": "KLRG1+ CD4- NKT cells - % of CD4- NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a804c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_027_001",
+    "parameterName": "Total CD4+ NKT cells - % of NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a804d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_028_001",
+    "parameterName": "Effector CD4+ NKT cells - % of CD4+ NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a804e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_029_001",
+    "parameterName": "Resting CD4+ NKT cells - % of CD4+ NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a804f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_030_001",
+    "parameterName": "KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8050"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_083_001",
+    "parameterName": "Total CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8051"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_084_001",
+    "parameterName": "Effector CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8052"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_085_001",
+    "parameterName": "Resting CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8053"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_086_001",
+    "parameterName": "KLRG1+ CD4- NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8054"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_087_001",
+    "parameterName": "Total CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8055"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_088_001",
+    "parameterName": "Effector CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8056"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_089_001",
+    "parameterName": "Resting CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8057"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NKT cells",
+    "parameterId": "MGP_MLN_090_001",
+    "parameterName": "KLRG1+ CD4+ NKT cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8058"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_PBI_007_001",
+    "parameterName": "NK cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8059"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Population size affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_PBI_027_001",
+    "parameterName": "NK cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a805a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_PBI_011_001",
+    "parameterName": "KLRG1+ mature NK cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a805b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_PBI_031_001",
+    "parameterName": "KLRG1+ mature NK cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a805c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Population size affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_033_001",
+    "parameterName": "Total NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a805d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_034_001",
+    "parameterName": "Effector NK cells - % of NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a805e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_035_001",
+    "parameterName": "Resting NK cells - % of NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a805f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_036_001",
+    "parameterName": "KLRG1+ NK cells - % of NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8060"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_037_001",
+    "parameterName": "Immature NK cells - % of NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8061"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_038_001",
+    "parameterName": "Ly6C+ immature NK cells - % of immature NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8062"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_039_001",
+    "parameterName": "Mature NK cells - % of NK cellls"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8063"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_040_001",
+    "parameterName": "Ly6C+ mature NK cells - % of mature NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8064"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_099_001",
+    "parameterName": "Effector NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8065"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_100_001",
+    "parameterName": "Resting NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8066"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_101_001",
+    "parameterName": "KLRG1+ NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8067"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_102_001",
+    "parameterName": "Immature NK cells - % of lymphocytes"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8068"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_103_001",
+    "parameterName": "Ly6C+ immature NK cells - % of lymphocytes"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8069"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_104_001",
+    "parameterName": "Mature NK cells - % of lymphocytes"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a806a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Maturation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_IMM_105_001",
+    "parameterName": "Ly6C+ mature NK cells - % of lymphocytes"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a806b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Population size affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_MLN_031_001",
+    "parameterName": "Total NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a806c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_MLN_032_001",
+    "parameterName": "Effector NK cells - % of NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a806d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_MLN_033_001",
+    "parameterName": "Resting NK cells - % of NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a806e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_MLN_034_001",
+    "parameterName": "KLRG1+ NK cells - % of NK cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a806f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_MLN_091_001",
+    "parameterName": "Effector NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8070"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_MLN_092_001",
+    "parameterName": "Resting NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8071"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Activation status affected",
+    "cellType": "NK cells",
+    "parameterId": "MGP_MLN_093_001",
+    "parameterName": "KLRG1+ NK cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8072"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "ANA",
+    "cellSubtype": "ANA score",
+    "cellType": "B cells",
+    "parameterId": "MGP_ANA_001_001",
+    "parameterName": "ANA score"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8073"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_PBI_014_001",
+    "parameterName": "B cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8074"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_PBI_034_001",
+    "parameterName": "B cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8075"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_PBI_015_001",
+    "parameterName": "IgD+ mature B cell percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8076"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_PBI_035_001",
+    "parameterName": "IgD+ mature B cell number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8077"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_041_001",
+    "parameterName": "Total B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8078"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Marginal zone B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_044_001",
+    "parameterName": "Marginal zone B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8079"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Marginal zone B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_045_001",
+    "parameterName": "Marginal zone precursor B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a807a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Transitional B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_046_001",
+    "parameterName": "Transitional 1 B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a807b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Transitional B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_047_001",
+    "parameterName": "Transitional 2 B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a807c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Follicular B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_048_001",
+    "parameterName": "Follicular B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a807d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_049_001",
+    "parameterName": "Germinal centre B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a807e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_050_001",
+    "parameterName": "Early germinal centre B cells - % of GC cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a807f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_051_001",
+    "parameterName": "Late germinal centre B cells - % of GC cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8080"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Plasma cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_052_001",
+    "parameterName": "Plasma cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8081"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Memory B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_053_001",
+    "parameterName": "Memory B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8082"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "B1a cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_106_001",
+    "parameterName": "B1a cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8083"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_107_001",
+    "parameterName": "Total B2 cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8084"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Marginal zone B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_108_001",
+    "parameterName": "Marginal zone B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8085"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Marginal zone B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_109_001",
+    "parameterName": "Marginal zone precursor B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8086"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Transitional B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_110_001",
+    "parameterName": "Transitional 1 B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8087"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Transitional B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_111_001",
+    "parameterName": "Transitional 2 B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8088"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Follicular B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_112_001",
+    "parameterName": "Follicular B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8089"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_113_001",
+    "parameterName": "Germinal centre B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a808a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_114_001",
+    "parameterName": "Early germinal centre B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a808b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_115_001",
+    "parameterName": "Late germinal centre B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a808c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Plasma cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_116_001",
+    "parameterName": "Plasma cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a808d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Memory B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_IMM_117_001",
+    "parameterName": "Memory B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a808e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_035_001",
+    "parameterName": "Total B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a808f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Follicular B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_042_001",
+    "parameterName": "Follicular B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8090"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Plasma cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_046_001",
+    "parameterName": "Plasma cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8091"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Memory B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_047_001",
+    "parameterName": "Memory B cells - % of B2 cells"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8092"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "B1a cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_094_001",
+    "parameterName": "B1a cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8093"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_095_001",
+    "parameterName": "Total B2 cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8094"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Follicular B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_100_001",
+    "parameterName": "Follicular B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8095"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_101_001",
+    "parameterName": "Germinal centre B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8096"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_102_001",
+    "parameterName": "Early germinal centre B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8097"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Germincal centre B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_103_001",
+    "parameterName": "Late germinal centre B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8098"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Plasma cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_104_001",
+    "parameterName": "Plasma cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a8099"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Memory B cells",
+    "cellType": "B cells",
+    "parameterId": "MGP_MLN_105_001",
+    "parameterName": "Memory B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a809a"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pre-pro B cells (HFA)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_001_001",
+    "parameterName": "Pre-pro B cells (Hardy fraction A) - % of B220+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a809b"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pro-B cells (HFB/HFC)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_002_001",
+    "parameterName": "Pro-B cells (Hardy fractions B and C) - % of B220+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a809c"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pro-B cells (HFB/HFC)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_003_001",
+    "parameterName": "Pro-B cells (Hardy fraction B) - % of B220+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a809d"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pro-B cells (HFB/HFC)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_004_001",
+    "parameterName": "Pro-B cells (Hardy fraction C) - % of B220+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a809e"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pre-B cells (HFD)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_005_001",
+    "parameterName": "Pre-B cells (Hardy fraction D) - % of B220+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a809f"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Immature B cells (HFE)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_006_001",
+    "parameterName": "Immature B cells (Hardy fraction E) - % of B220+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Mature B cells (HFF)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_007_001",
+    "parameterName": "Mature B cells (Hardy fraction F) - % of B220+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pre-pro B cells (HFA)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_008_001",
+    "parameterName": "Pre-pro B cells (Hardy fraction A) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pro-B cells (HFB/HFC)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_009_001",
+    "parameterName": "Pro-B cells (Hardy fractions B and C) - % of CD45"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pro-B cells (HFB/HFC)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_010_001",
+    "parameterName": "Pro-B cells (Hardy fraction B) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pro-B cells (HFB/HFC)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_011_001",
+    "parameterName": "Pro-B cells (Hardy fraction C) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Pre-B cells (HFD)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_012_001",
+    "parameterName": "Pre-B cells (Hardy fraction D) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Immature B cells (HFE)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_013_001",
+    "parameterName": "Immature B cells (Hardy fraction E) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Mature B cells (HFF)",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_014_001",
+    "parameterName": "Mature B cells (Hardy fraction F) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a8"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Total B cells",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_015_001",
+    "parameterName": "Total B cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80a9"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Plasma cells",
+    "cellType": "B cell precursors",
+    "parameterId": "MGP_BMI_018_001",
+    "parameterName": "Plasma cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80aa"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Plasmacytoid",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_064_001",
+    "parameterName": "Plasmacytoid DC - % of DC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80ab"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_065_001",
+    "parameterName": "Conventional DC (cDC) - % of DC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80ac"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_066_001",
+    "parameterName": "CD11b-high cDC - % of cDC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80ad"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_067_001",
+    "parameterName": "CD11b-low cDC - % of cDC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80ae"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_068_001",
+    "parameterName": "CD103+ CD11b-low cDC - % of CD11b-low cDC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80af"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_126_001",
+    "parameterName": "Total DC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Plasmacytoid",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_127_001",
+    "parameterName": "Plasmacytoid DC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_128_001",
+    "parameterName": "Conventional DC (cDC) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_129_001",
+    "parameterName": "CD11b-high cDC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_130_001",
+    "parameterName": "CD11b-low cDC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_IMM_131_001",
+    "parameterName": "CD103+ CD11b-low cDC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_058_001",
+    "parameterName": "Plasmacytoid DC - % of DC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_060_001",
+    "parameterName": "CD11b-high cDC - % of cDC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_061_001",
+    "parameterName": "CD11b-low cDC - % of cDC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b8"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_062_001",
+    "parameterName": "CD103+ CD11b-low cDC - % of CD11b-low cDC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80b9"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_114_001",
+    "parameterName": "Total DC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80ba"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_115_001",
+    "parameterName": "Plasmacytoid DC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80bb"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_116_001",
+    "parameterName": "Conventional DC (cDC) - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80bc"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_117_001",
+    "parameterName": "CD11b-high cDC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80bd"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_118_001",
+    "parameterName": "CD11b-low cDC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80be"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Conventional",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_MLN_119_001",
+    "parameterName": "CD103+ CD11b-low cDC - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80bf"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Langerhans cells",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_EEI_007_001",
+    "parameterName": "Langerhans cell (LC) count"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Langerhans cells",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_EEI_015_001",
+    "parameterName": "Average volume of LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Langerhans cells",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_EEI_020_001",
+    "parameterName": "Average roundness of LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Langerhans cells",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_EEI_024_001",
+    "parameterName": "Average no of branches on LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Ear epidermis",
+    "cellSubtype": "Langerhans cells",
+    "cellType": "Dendritic cells",
+    "parameterId": "MGP_EEI_028_001",
+    "parameterName": "Average branch length of LC"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_PBI_016_001",
+    "parameterName": "Monocyte percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_PBI_036_001",
+    "parameterName": "Monocyte number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_PBI_017_001",
+    "parameterName": "Ly6Chigh monocyte percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_PBI_037_001",
+    "parameterName": "Ly6Chigh monocyte number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c8"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_PBI_018_001",
+    "parameterName": "Ly6Clow monocyte percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80c9"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_PBI_038_001",
+    "parameterName": "Ly6Clow monocyte number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80ca"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_IMM_124_001",
+    "parameterName": "Monocytes - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80cb"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Macrophages",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_IMM_121_001",
+    "parameterName": "Macrophages - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80cc"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Monocytes",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_MLN_112_001",
+    "parameterName": "Monocytes - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80cd"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Macrophages",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_MLN_109_001",
+    "parameterName": "Macrophages - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80ce"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Myeloid cells (BM)",
+    "cellType": "Monocytes / Macrophages",
+    "parameterId": "MGP_BMI_017_001",
+    "parameterName": "Myeloid cells - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80cf"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Neutrophils",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_PBI_019_001",
+    "parameterName": "Neutrophil percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d0"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Neutrophils",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_PBI_039_001",
+    "parameterName": "Neutrophil number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d1"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Eosinophils",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_PBI_020_001",
+    "parameterName": "Eosinophil percentage"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d2"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Blood",
+    "cellSubtype": "Eosinophils",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_PBI_040_001",
+    "parameterName": "Eosinophil number"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d3"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Granulocytes",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_IMM_123_001",
+    "parameterName": "Granulocytes - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d4"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Spleen",
+    "cellSubtype": "Eosinophils",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_IMM_125_001",
+    "parameterName": "Eosinophils - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d5"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Granulocytes",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_MLN_111_001",
+    "parameterName": "Granulocytes - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d6"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Mesenteric lymph node",
+    "cellSubtype": "Eosinophils",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_MLN_113_001",
+    "parameterName": "Eosinophils - % of CD45+"
+  },
+  {
+    "_id": {"$oid": "5d4175d8a71ab7383d4a80d7"},
+    "_class": "uk.ac.ebi.threei.rest.CellParameter",
+    "assay": "Bone marrow",
+    "cellSubtype": "Granulocytes",
+    "cellType": "Granulocytes",
+    "parameterId": "MGP_BMI_016_001",
+    "parameterName": "Granulocytes - % of CD45+"
+  }
+]

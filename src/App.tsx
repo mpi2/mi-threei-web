@@ -1,4 +1,4 @@
-import { Fragment } from "react";
+import { Fragment, useEffect, useState } from "react";
 import { Container } from "react-bootstrap";
 import { HashRouter, Route, Switch, withRouter } from "react-router-dom";
 import { About } from "./pages/About";
@@ -17,10 +17,26 @@ import { StatisticalDesign } from "./pages/StatisticalDesign";
 import { Downloads } from "./pages/Downloads";
 import { FlowFiles } from "./pages/FlowFiles";
 import { NewCellTypes } from "./pages/NewCellTypes";
+import { Details } from "./Details";
 
 function App() {
   const MainBarWithRouter = withRouter(MainNav);
   const FooterWithRouter = withRouter(ThreeiFooter);
+
+  const [cellParameterMap, setCellParameterMap] = useState<Array<any>>([]);
+
+  useEffect(() => {
+    fetch(`${process.env.PUBLIC_URL}/three-i-cell-parameter.json`)
+      .then((res) => res.json())
+      .then(
+        (result) => {
+          setCellParameterMap(result);
+        },
+        (error) => {
+          console.log(error);
+        }
+      );
+  }, []);
 
   return (
     <Fragment>
@@ -65,6 +81,14 @@ function App() {
                 exact
                 path="/data/new-cell-types"
                 component={NewCellTypes}
+              />
+              <Route
+                path="/data/details/:gene/by-cell-type/:cellType"
+                children={<Details cellTypeParameterMap={cellParameterMap} />}
+              />
+              <Route
+                path="/data/details/:gene/by-procedure/:procedure"
+                children={<Details cellTypeParameterMap={cellParameterMap} />}
               />
             </Switch>
           </Container>

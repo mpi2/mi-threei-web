@@ -13,6 +13,8 @@ import { MyResponsiveHeatMapCanvas } from "./Heatmap";
 import "react-bootstrap-typeahead/css/Typeahead.css";
 import { GeneFilter } from "./GeneFilter";
 import { CellTypeFilter } from "./CellTypeFilter";
+import { cellTypes } from "./Constants";
+import { Legend } from "./Legend";
 
 export const Home: FunctionComponent = () => {
   const [show, setShow] = useState(false);
@@ -38,25 +40,6 @@ export const Home: FunctionComponent = () => {
 
   const heatmapHeight =
     filteredData.length * 20 > 500 ? filteredData.length * 20 : 500;
-
-  const cellTypes = [
-    { key: "alphaDeltaTCells", display: "γδ T cells" },
-    { key: "nKCells", display: "NK Cells" },
-    { key: "nktCells", display: "NKT Cells" },
-    { key: "bCellPrecursors", display: "B cell precursors" },
-    { key: "dendriticCells", display: "Dendritic Cells" },
-    { key: "granulocytes", display: "Granulocytes" },
-    { key: "tregCells", display: "Treg Cells" },
-    { key: "cD4TCells", display: "CD 4 TCells" },
-    { key: "monocytesMacrophages", display: "Monocytes / Macrophages" },
-    { key: "totalAlphBetaTCells", display: "Total αβ T cells" },
-    { key: "bCells", display: "B cells" },
-    { key: "cd8TCells", display: "CD 8 T Cells" },
-    { key: "dSSChallenge", display: "DSS Challenge" },
-    { key: "influenza", display: "Influenza" },
-    { key: "trichurisChallenge", display: "Trichuris Challenge" },
-    { key: "salmonellaChallenge", display: "Salmonella Challenge" },
-  ];
 
   useEffect(() => {
     fetch(`${process.env.PUBLIC_URL}/three-i-cell-heatmap.json`)
@@ -180,6 +163,7 @@ export const Home: FunctionComponent = () => {
                   height: heatmapHeight + "px",
                 }}
               >
+                <Legend></Legend>
                 <MyResponsiveHeatMapCanvas
                   data={filteredData}
                   columns={cellTypes}
