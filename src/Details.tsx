@@ -1,6 +1,6 @@
 import React, { FunctionComponent, useEffect, useState } from "react";
-import { Alert, Button, Container, Table } from "react-bootstrap";
-import { useParams } from "react-router-dom";
+import { Alert, Breadcrumb, Button, Container, Table } from "react-bootstrap";
+import { Link, useParams } from "react-router-dom";
 import { tsvParse } from "d3-dsv";
 import { Legend } from "./Legend";
 
@@ -109,6 +109,15 @@ export const Details: FunctionComponent<IDetailsProps> = ({
       ) : (
         <h2>Procedure: {procedure}</h2>
       )}
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/data/downloads">Data</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>{gene}</Breadcrumb.Item>
+      </Breadcrumb>
 
       {tableRows.length > 0 ? (
         <>

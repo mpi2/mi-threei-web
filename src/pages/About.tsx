@@ -1,10 +1,17 @@
 import React, { FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Breadcrumb, Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 export const About: FunctionComponent = () => {
   return (
     <Container className="mt-5">
       <h1 className="mb-5">About</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>About</Breadcrumb.Item>
+      </Breadcrumb>
       <p>
         The 3i project has established that genetics plays an important role in
         shaping the immune system. By using a high-throughput, high-density
