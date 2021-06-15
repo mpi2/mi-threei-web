@@ -115,8 +115,9 @@ export const Team: FunctionComponent = () => {
       </p>
       <p>
         {" "}
-        The redesign and re-implementation of the website was completely done by
-        Federico López Gómez.
+        In 2021 this website was completely re-done. The redesign and
+        re-implementation of the website was completely done by Federico López
+        Gómez.
       </p>
     </Container>
   );

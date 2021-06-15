@@ -113,7 +113,7 @@ export const Details: FunctionComponent<IDetailsProps> = ({
       {tableRows.length > 0 ? (
         <>
           <Legend></Legend>
-          <Table striped bordered hover>
+          <Table striped bordered hover responsive>
             <thead>
               <tr>
                 {tableColumns.map((col) => (

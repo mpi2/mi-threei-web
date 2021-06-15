@@ -266,7 +266,7 @@ export const ExperimentalDesign: FunctionComponent = () => {
         that occur in key immunological sites in the steady state. Unless stated
         otherwise, mice are sacrificed at 16 weeks of age.
       </p>
-      <Table striped bordered hover>
+      <Table striped bordered hover className="text-center">
         <thead>
           <tr>
             <th>Organ / Test</th>
@@ -278,18 +278,31 @@ export const ExperimentalDesign: FunctionComponent = () => {
           <tr>
             <td>Spleen, MLN, Bone marrow</td>
             <td>3F3M</td>
-            <td rowSpan={2} className="rotate">
+            <td rowSpan={2}>
               <div>Flow cytometry</div>
             </td>
           </tr>
           <tr>
-            <td>2</td>
-            <td>Jacob</td>
+            <td>Blood</td>
+            <td>7F7M</td>
           </tr>
           <tr>
-            <td>3</td>
-            <td>Larry the Bird</td>
-            <td>@twitter</td>
+            <td>Antinuclear antibodies</td>
+            <td>3F3M</td>
+            <td rowSpan={2}>
+              <div>Microscopy</div>
+            </td>
+          </tr>
+          <tr>
+            <td>Ear epidermis</td>
+            <td>2F2M</td>
+          </tr>
+          <tr>
+            <td>Cytotoxic T lymphocytes</td>
+            <td>2F2M</td>
+            <td>
+              <div>All assay</div>
+            </td>
           </tr>
         </tbody>
       </Table>
@@ -339,6 +352,53 @@ export const ExperimentalDesign: FunctionComponent = () => {
         and DSS colitis as an example of a chemical stressor. Selected strains
         will furthermore be infected with Mycobacterium tuberculosis.
       </p>
+      <Table striped bordered hover className="text-center">
+        <thead>
+          <tr>
+            <th>Challenge</th>
+            <th>No. of Mice</th>
+            <th>Readouts</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Samonella</td>
+            <td>4F4M</td>
+            <td>
+              Bacterial counts <br />
+              Antibody titers
+            </td>
+          </tr>
+          <tr>
+            <td>Influenza</td>
+            <td>3F3M</td>
+            <td>Daily weights</td>
+          </tr>
+          <tr>
+            <td>Trichuris</td>
+            <td>6F</td>
+            <td>
+              Worm burden <br /> Antibody titers
+            </td>
+          </tr>
+          <tr>
+            <td>DSS colitis</td>
+            <td>4F</td>
+            <td>
+              Histology <br />
+              Daily weights
+            </td>
+          </tr>
+          <tr>
+            <td>Tuberculosis</td>
+            <td>selected</td>
+            <td>
+              Bacterial counts <br />
+              Daily weights
+            </td>
+          </tr>
+        </tbody>
+      </Table>
       <Accordion>
         {challengeProtocols.map((observationProtocol, index) => (
           <Card key={`${observationProtocol.title}_${index}`}>

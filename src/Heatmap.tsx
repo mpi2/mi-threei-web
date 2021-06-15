@@ -7,9 +7,7 @@ import { valueMap, cellTypes, procedures } from "./Constants";
 import { useHistory } from "react-router-dom";
 
 const cellTypeLabelMap: any = {};
-const colTypes = cellTypes
-  .filter((c) => c.type === "procedure")
-  .concat(procedures);
+const colTypes = cellTypes.filter((c) => c.type === "cell").concat(procedures);
 colTypes.forEach(({ key, display }) => (cellTypeLabelMap[key] = display));
 
 export const MyResponsiveHeatMapCanvas = ({
@@ -65,7 +63,7 @@ export const MyResponsiveHeatMapCanvas = ({
       cellHoverOpacity={1}
       cellHoverOthersOpacity={0.5}
       onClick={(e) => {
-        const type = colTypes.find((c) => c.key == e.xKey).type;
+        const type = colTypes.find((c) => c.key === e.xKey).type;
         history.push(
           `data/details/${e.yKey}/${
             type === "cell" ? "by-cell-type" : "by-procedure"
