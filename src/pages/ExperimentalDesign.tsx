@@ -2,6 +2,8 @@ import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { FunctionComponent } from "react";
 import { Accordion, Card, Container, Table } from "react-bootstrap";
+import { Breadcrumb } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "./ExperimentalDesign.scss";
 
 const observationProtocols = [
@@ -133,6 +135,17 @@ export const ExperimentalDesign: FunctionComponent = () => {
       <h1 className="mb-5" id="the-mice">
         The Mice
       </h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/methods/">Methods</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>
+          Experimental Design and Protocols
+        </Breadcrumb.Item>
+      </Breadcrumb>
       <article>
         <p>
           The Wellcome Trust Sanger Institute currently generates 160 knockout

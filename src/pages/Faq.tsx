@@ -1,10 +1,22 @@
 import { FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Breadcrumb, Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 export const Faq: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">FAQ - Frequently Asked Questions</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/project/">Project</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>
+          FAQ - Frequently Asked Questions
+        </Breadcrumb.Item>
+      </Breadcrumb>
       <h3>
         There is no such thing as a free lunch, so where&rsquo;s the catch?
       </h3>

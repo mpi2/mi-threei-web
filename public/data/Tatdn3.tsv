@@ -1,0 +1,9 @@
+construct	parameterName	genotype	parameterId	procedureName	gene	mgiAccessionId	displayProcedureName	significanceValue	sex
+tm1b(EUCOMM)Wtsi	ANA score	Hom	MGP_ANA_001_001	Anti-nuclear antibody assay	Tatdn3	MGI:1916222	Anti-nuclear Antibodies	2	Female
+tm1b(EUCOMM)Wtsi	ANA classification	Hom	MGP_ANA_002_001	Anti-nuclear antibody assay	Tatdn3	MGI:1916222	Anti-nuclear Antibodies	2	Female
+tm1b(EUCOMM)Wtsi	ANA score	Hom	MGP_ANA_001_001	Anti-nuclear antibody assay	Tatdn3	MGI:1916222	Anti-nuclear Antibodies	2	Male
+tm1b(EUCOMM)Wtsi	ANA classification	Hom	MGP_ANA_002_001	Anti-nuclear antibody assay	Tatdn3	MGI:1916222	Anti-nuclear Antibodies	2	Male
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Tatdn3	MGI:1916222	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Tatdn3	MGI:1916222	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Tatdn3	MGI:1916222	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Tatdn3	MGI:1916222	Ear Epidermis	2	Female

@@ -1,0 +1,5 @@
+construct	parameterName	genotype	parameterId	procedureName	gene	mgiAccessionId	displayProcedureName	significanceValue	sex
+tm1a(EUCOMM)Wtsi	ANA score	Het	MGP_ANA_001_001	Anti-nuclear antibody assay	Edc4	MGI:2446249	Anti-nuclear Antibodies	2	Female
+tm1a(EUCOMM)Wtsi	ANA classification	Het	MGP_ANA_002_001	Anti-nuclear antibody assay	Edc4	MGI:2446249	Anti-nuclear Antibodies	2	Female
+tm1a(EUCOMM)Wtsi	ANA score	Het	MGP_ANA_001_001	Anti-nuclear antibody assay	Edc4	MGI:2446249	Anti-nuclear Antibodies	2	Male
+tm1a(EUCOMM)Wtsi	ANA classification	Het	MGP_ANA_002_001	Anti-nuclear antibody assay	Edc4	MGI:2446249	Anti-nuclear Antibodies	2	Male

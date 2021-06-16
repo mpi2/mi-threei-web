@@ -1,10 +1,20 @@
 import React, { FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Container, Breadcrumb } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 export const FlowFiles: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">Flow Files</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/data">Data</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>Flow Files</Breadcrumb.Item>
+      </Breadcrumb>
       <p>
         We phenotyped the blood of over 12,700 mice, and spleen mesenteric lymph
         nodes and bone marrow of over 3400 mice. Using one panel for bone

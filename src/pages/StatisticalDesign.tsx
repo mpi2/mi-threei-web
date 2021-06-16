@@ -1,12 +1,21 @@
 //@ts-nocheck
 import React, { FunctionComponent } from "react";
-import { Accordion, Card, Container } from "react-bootstrap";
+import { Accordion, Card, Container, Breadcrumb } from "react-bootstrap";
 import TableauReport from "tableau-react-embed";
-
+import { Link } from "react-router-dom";
 export const StatisticalDesign: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">Statistical Design</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/methods">Methods</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>Statistical Design</Breadcrumb.Item>
+      </Breadcrumb>
       <p>
         Due to different work flows, we use different statistical tests to
         determine if the phenotyping results of a knockout line differ from the

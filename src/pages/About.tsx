@@ -10,6 +10,9 @@ export const About: FunctionComponent = () => {
         <Breadcrumb.Item>
           <Link to="/">Home</Link>
         </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/project/">Project</Link>
+        </Breadcrumb.Item>
         <Breadcrumb.Item active>About</Breadcrumb.Item>
       </Breadcrumb>
       <p>

@@ -1,7 +1,8 @@
 import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { Fragment, FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Breadcrumb, Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 const publications = [
   {
@@ -45,6 +46,15 @@ export const Publications: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">Publications</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/project/">Project</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>About</Breadcrumb.Item>
+      </Breadcrumb>
       {publications.map((publication) => (
         <Fragment key={publication.pdf}>
           <p>

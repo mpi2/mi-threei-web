@@ -1,10 +1,20 @@
 import React, { FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Container, Breadcrumb } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 export const HowToCite: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">How to acknowledge 3i in publications</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/project/">Project</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>How to cite?</Breadcrumb.Item>
+      </Breadcrumb>
       <p>
         All publications that mainly contain data funded by 3i (e.g.
         descriptions and results of individual screens, work undertaken by

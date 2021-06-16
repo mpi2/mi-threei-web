@@ -9,7 +9,10 @@ import { ThreeiFooter } from "./ThreeiFooter";
 import { Publications } from "./pages/Publications";
 import { Contact } from "./pages/Contact";
 import { Team } from "./pages/Team";
+import { Project } from "./pages/Project";
+import { Methods } from "./pages/Methods";
 import { Faq } from "./pages/Faq";
+import { Data } from "./pages/Data";
 import { HowToCite } from "./pages/HowToCite";
 import { Limitations } from "./pages/Limitations";
 import { ExperimentalDesign } from "./pages/ExperimentalDesign";
@@ -46,6 +49,7 @@ function App() {
           <Container fluid style={{ paddingLeft: 0, paddingRight: 0 }}>
             <Switch>
               <Route exact path="/" component={Home} />
+              <Route exact path="/project/" component={Project} />
               <Route exact path="/project/about" component={About} />
               <Route
                 exact
@@ -60,6 +64,7 @@ function App() {
               />
               <Route exact path="/project/faq" component={Faq} />
               <Route exact path="/project/how-to-cite" component={HowToCite} />
+              <Route exact path="/methods/" component={Methods} />
               <Route
                 exact
                 path="/methods/strengths-and-limitations"
@@ -75,6 +80,7 @@ function App() {
                 path="/methods/statistical-design"
                 component={StatisticalDesign}
               />
+              <Route exact path="/data/" component={Data} />
               <Route exact path="/data/downloads" component={Downloads} />
               <Route exact path="/data/flow-files" component={FlowFiles} />
               <Route

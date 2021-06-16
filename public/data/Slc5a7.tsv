@@ -1,125 +1,258 @@
 construct	displayProcedureName	gene	genotype	parameterId	parameterName	procedureName	sex	significanceValue	mgiAccessionId
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_092_001	Effector CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_029_001	Total CD4+ NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_007_001	Resting CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Homozygous Fertility	Slc5a7	Mutant			Fertility of Homozygous Knock-out Mice	Both	1	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_074_001	Resting CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_012_001	Monocyte percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_070_001	Total ab T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_003_001	Treg cell CD25+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_007_001	CD4+CD44+CD62L- percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_005_001	Mean cell volume	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_003_001	Vg5+ dendritic epidermal T cell (DETC) count	Ear epidermis immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_025_001	Total CD4- NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_001_001	ANA score	Anti-nuclear antibody assay	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_083_001	Naive CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_016_001	Naive CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_001_001	White blood cell count	Haematology	Female	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_008_001	Platelets count	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_034_001	Effector NK cells - % of NK cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_003_001	Total ab T cells - % of total T cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_097_001	Resting CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_027_001	Red blood cell distribution width	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_005_001	NK cell percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_021_001	Resting gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_079_001	KLRG1+ Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_002_001	ANA classification	Anti-nuclear antibody assay	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_008_001	Ratio of vg5+ DETC/LC	Ear epidermis immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_012_001	KLRG1+ Treg cells - % of Treg	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_009_001	B cell CD19+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_004_001	Hematocrit	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_088_001	Resting gd T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	DSS Challenge	Slc5a7	Het	DSS_DSS_011_001	Average histology score	3i DSS Challenge	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_030_001	Effector CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_093_001	Resting CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_026_001	Effector CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_002_001	Red blood cell count	Haematology	Female	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_027_001	Red blood cell distribution width	Haematology	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_005_001	Mean cell volume	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_008_001	KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_075_001	KLRG1+ CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_071_001	Total CD4+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_010_001	Mature B cell IgD+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_019_001	Mean platelet volume	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_080_001	Total CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_002_001	ANA classification	Anti-nuclear antibody assay	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_084_001	KLRG1+ CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_006_001	Mean corpuscular hemoglobin	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_017_001	KLRG1+ CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_035_001	Resting NK cells - % of NK cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_001_001	T cell CD3+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_004_001	T cell CD8+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_008_001	CD8+CD44+CD62L- percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_004_001	Total CD4+ T cells - % of ab T cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	DSS Challenge	Slc5a7	Het	DSS_DSS_014_001	Pre-Day 10 Death	3i DSS Challenge	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_022_001	KLRG1+ gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_007_001	Langerhans cell (LC) count	Ear epidermis immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_009_001	B cell CD19+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_001_001	White blood cell count	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_089_001	KLRG1+ gd T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_003_001	Vg5+ dendritic epidermal T cell (DETC) count	Ear epidermis immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_013_001	Total CD8+ T cells - % of ab T cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_006_001	NKT cell percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_031_001	Resting CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_098_001	KLRG1+ CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_094_001	KLRG1+ CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_003_001	Hemoglobin	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_072_001	CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_009_001	Total Treg cells - % of CD4+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_076_001	Total Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_005_001	NK cell percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_002_001	T cell CD4+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_006_001	Mean corpuscular hemoglobin	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_036_001	KLRG1+ NK cells - % of NK cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_007_001	Mean cell hemoglobin concentration	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_081_001	Effector CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_018_001	Total gd T cells - % of total T cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_085_001	Total gd T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_011_001	Granulocyte Gr1+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_019_001	Mean platelet volume	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_027_001	Resting CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_001_001	Total T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_005_001	CD4+ T helper cells - % of CD4+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	DSS Challenge	Slc5a7	Het	DSS_DSS_011_001	Average histology score	3i DSS Challenge	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_095_001	Total CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_010_001	Mature B cell IgD+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_099_001	Effector NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_002_001	Red blood cell count	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_032_001	KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_010_001	Effector Treg cells - % of Treg	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_007_001	CD4+CD44+CD62L- percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_014_001	Effector CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_001_001	T cell CD3+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_008_001	Ratio of vg5+ DETC/LC	Ear epidermis immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_100_001	Resting NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_023_001	Total NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_077_001	Effector Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_091_001	Total CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_006_001	Effector CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_028_001	KLRG1+ CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_007_001	Mean cell hemoglobin concentration	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_003_001	Treg cell CD25+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_002_001	T cell CD4+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Salmonella Challenge	Slc5a7	Het	SLM_SLM_016_001	Pre-Day 1 Death	Salmonella Challenge	Both	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_006_001	NKT cell percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_082_001	Resting CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_015_001	Resting CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_008_001	Platelets count	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_012_001	Monocyte percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_033_001	Total NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_073_001	Effector CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_004_001	Hematocrit	Haematology	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_011_001	Granulocyte Gr1+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	DSS Challenge	Slc5a7	Het	DSS_DSS_014_001	Pre-Day 10 Death	3i DSS Challenge	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_004_001	T cell CD8+ percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_096_001	Effector CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_020_001	Effector gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Homozygous viability at P14	Slc5a7	Mutant	IMPC_VIA_001_001	Outcome	Viability Primary Screen	Both	3	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_078_001	Resting Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Peripheral Blood Leukocytes	Slc5a7	Het	MGP_BCI_008_001	CD8+CD44+CD62L- percentage	Buffy coat peripheral blood leukocyte immunophenotyping	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_001_001	ANA score	Anti-nuclear antibody assay	Female	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_011_001	Resting Treg cells - % of Treg	Spleen Immuno Phenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_007_001	Langerhans cell (LC) count	Ear epidermis immunophenotyping	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_087_001	Effector gd cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
 tm1a(KOMP)Wtsi	Haematology	Slc5a7	Het	IMPC_HEM_003_001	Hemoglobin	Haematology	Male	2	MGI:1927126
-tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_101_001	KLRG1+ NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	2	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_106_001	B1a cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_106_001	B1a cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_068_001	CD103+ CD11b-low cDC - % of CD11b-low cDC	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_068_001	CD103+ CD11b-low cDC - % of CD11b-low cDC	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_131_001	CD103+ CD11b-low cDC - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_131_001	CD103+ CD11b-low cDC - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_129_001	CD11b-high cDC - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_129_001	CD11b-high cDC - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_066_001	CD11b-high cDC - % of cDC	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_066_001	CD11b-high cDC - % of cDC	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_130_001	CD11b-low cDC - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_130_001	CD11b-low cDC - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_067_001	CD11b-low cDC - % of cDC	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_067_001	CD11b-low cDC - % of cDC	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_005_001	CD4+ T helper cells - % of CD4+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_005_001	CD4+ T helper cells - % of CD4+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_072_001	CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_072_001	CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_086_001	CD5+ gd T cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_086_001	CD5+ gd T cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_019_001	CD5+ gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_019_001	CD5+ gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_128_001	Conventional DC (cDC) - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_128_001	Conventional DC (cDC) - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_065_001	Conventional DC (cDC) - % of DC	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_065_001	Conventional DC (cDC) - % of DC	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_114_001	Early germinal centre B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_114_001	Early germinal centre B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_050_001	Early germinal centre B cells - % of GC cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_050_001	Early germinal centre B cells - % of GC cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_026_001	Effector CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_026_001	Effector CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_092_001	Effector CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_092_001	Effector CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_030_001	Effector CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_030_001	Effector CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_096_001	Effector CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_096_001	Effector CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_006_001	Effector CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_006_001	Effector CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_073_001	Effector CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_073_001	Effector CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_081_001	Effector CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_081_001	Effector CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_014_001	Effector CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_014_001	Effector CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_087_001	Effector gd cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_087_001	Effector gd cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_020_001	Effector gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_020_001	Effector gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_099_001	Effector NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_099_001	Effector NK cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_034_001	Effector NK cells - % of NK cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_034_001	Effector NK cells - % of NK cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_077_001	Effector Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_077_001	Effector Treg cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_010_001	Effector Treg cells - % of Treg	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_010_001	Effector Treg cells - % of Treg	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_125_001	Eosinophils - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_125_001	Eosinophils - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_048_001	Follicular B cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_048_001	Follicular B cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_112_001	Follicular B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_112_001	Follicular B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_049_001	Germinal centre B cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_049_001	Germinal centre B cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_113_001	Germinal centre B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_113_001	Germinal centre B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_123_001	Granulocytes - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_123_001	Granulocytes - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_102_001	Immature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_102_001	Immature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_037_001	Immature NK cells - % of NK cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_037_001	Immature NK cells - % of NK cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_028_001	KLRG1+ CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_028_001	KLRG1+ CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_094_001	KLRG1+ CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_094_001	KLRG1+ CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_098_001	KLRG1+ CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_098_001	KLRG1+ CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_008_001	KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_008_001	KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_075_001	KLRG1+ CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_075_001	KLRG1+ CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_084_001	KLRG1+ CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_084_001	KLRG1+ CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_017_001	KLRG1+ CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_017_001	KLRG1+ CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_089_001	KLRG1+ gd T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_089_001	KLRG1+ gd T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_022_001	KLRG1+ gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_022_001	KLRG1+ gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_101_001	KLRG1+ NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_101_001	KLRG1+ NK cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_036_001	KLRG1+ NK cells - % of NK cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_036_001	KLRG1+ NK cells - % of NK cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_079_001	KLRG1+ Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_079_001	KLRG1+ Treg cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_012_001	KLRG1+ Treg cells - % of Treg	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_012_001	KLRG1+ Treg cells - % of Treg	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_115_001	Late germinal centre B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_115_001	Late germinal centre B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_051_001	Late germinal centre B cells - % of GC cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_051_001	Late germinal centre B cells - % of GC cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_038_001	Ly6C+ immature NK cells - % of immature NK cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_038_001	Ly6C+ immature NK cells - % of immature NK cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_103_001	Ly6C+ immature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_103_001	Ly6C+ immature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_105_001	Ly6C+ mature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_105_001	Ly6C+ mature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_040_001	Ly6C+ mature NK cells - % of mature NK cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_040_001	Ly6C+ mature NK cells - % of mature NK cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_090_001	Ly6C+ NKT cells - % of lymphocytes	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_090_001	Ly6C+ NKT cells - % of lymphocytes	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_024_001	Ly6C+ NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_024_001	Ly6C+ NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_121_001	Macrophages - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_121_001	Macrophages - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_044_001	Marginal zone B cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_044_001	Marginal zone B cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_108_001	Marginal zone B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_108_001	Marginal zone B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_045_001	Marginal zone precursor B cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_045_001	Marginal zone precursor B cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_109_001	Marginal zone precursor B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_109_001	Marginal zone precursor B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_104_001	Mature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_104_001	Mature NK cells - % of lymphocytes	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_039_001	Mature NK cells - % of NK cellls	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_039_001	Mature NK cells - % of NK cellls	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_124_001	Monocytes - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_124_001	Monocytes - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_083_001	Naive CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_083_001	Naive CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_016_001	Naive CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_016_001	Naive CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_052_001	Plasma cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_052_001	Plasma cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_116_001	Plasma cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_116_001	Plasma cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_127_001	Plasmacytoid DC - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_127_001	Plasmacytoid DC - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_064_001	Plasmacytoid DC - % of DC	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_064_001	Plasmacytoid DC - % of DC	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_027_001	Resting CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_027_001	Resting CD4- NKT cells - % of CD4- NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_093_001	Resting CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_093_001	Resting CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_031_001	Resting CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_031_001	Resting CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_097_001	Resting CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_097_001	Resting CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_007_001	Resting CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_007_001	Resting CD4+ T helper cells - % of CD4+ T helper cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_074_001	Resting CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_074_001	Resting CD4+ T helper cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_082_001	Resting CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_082_001	Resting CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_015_001	Resting CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_015_001	Resting CD8+ T cells - % of CD8+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_088_001	Resting gd T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_088_001	Resting gd T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_021_001	Resting gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_021_001	Resting gd T cells - % of gd T cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_100_001	Resting NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_100_001	Resting NK cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_035_001	Resting NK cells - % of NK cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_035_001	Resting NK cells - % of NK cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_078_001	Resting Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_078_001	Resting Treg cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_011_001	Resting Treg cells - % of Treg	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_011_001	Resting Treg cells - % of Treg	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_070_001	Total ab T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_070_001	Total ab T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_041_001	Total B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_041_001	Total B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_107_001	Total B2 cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_107_001	Total B2 cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_091_001	Total CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_091_001	Total CD4- NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_025_001	Total CD4- NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_025_001	Total CD4- NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_095_001	Total CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_095_001	Total CD4+ NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_029_001	Total CD4+ NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_029_001	Total CD4+ NKT cells - % of NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_004_001	Total CD4+ T cells - % of ab T cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_004_001	Total CD4+ T cells - % of ab T cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_071_001	Total CD4+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_071_001	Total CD4+ T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_013_001	Total CD8+ T cells - % of ab T cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_013_001	Total CD8+ T cells - % of ab T cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_080_001	Total CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_080_001	Total CD8+ T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_126_001	Total DC - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_126_001	Total DC - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_085_001	Total gd T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_085_001	Total gd T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_033_001	Total NK cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_033_001	Total NK cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_023_001	Total NKT cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_023_001	Total NKT cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_001_001	Total T cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_001_001	Total T cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_009_001	Total Treg cells - % of CD4+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_009_001	Total Treg cells - % of CD4+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_076_001	Total Treg cells - % of CD45+	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_076_001	Total Treg cells - % of CD45+	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_046_001	Transitional 1 B cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_046_001	Transitional 1 B cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_110_001	Transitional 1 B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_110_001	Transitional 1 B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_047_001	Transitional 2 B cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_047_001	Transitional 2 B cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_111_001	Transitional 2 B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_111_001	Transitional 2 B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_032_001	KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Male	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_032_001	KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells	Spleen Immuno Phenotyping	Female	1	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_053_001	Memory B cells - % of B2 cells	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_053_001	Memory B cells - % of B2 cells	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_117_001	Memory B cells - % of CD45+	Spleen Immuno Phenotyping	Male	0	MGI:1927126
+tm1a(KOMP)Wtsi	Spleen	Slc5a7	Het	MGP_IMM_117_001	Memory B cells - % of CD45+	Spleen Immuno Phenotyping	Female	0	MGI:1927126
+tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_001_001	ANA score	Anti-nuclear antibody assay	Female	2	MGI:1927126
+tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_002_001	ANA classification	Anti-nuclear antibody assay	Female	2	MGI:1927126
+tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_001_001	ANA score	Anti-nuclear antibody assay	Male	2	MGI:1927126
+tm1a(KOMP)Wtsi	Anti-nuclear Antibodies	Slc5a7	Het	MGP_ANA_002_001	ANA classification	Anti-nuclear antibody assay	Male	2	MGI:1927126
+tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_007_001	Langerhans cell (LC) count	Ear epidermis immunophenotyping	Male	2	MGI:1927126
+tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_007_001	Langerhans cell (LC) count	Ear epidermis immunophenotyping	Female	2	MGI:1927126
+tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_007_001	Langerhans cell (LC) count	Ear epidermis immunophenotyping	Male	2	MGI:1927126
+tm1a(KOMP)Wtsi	Ear Epidermis	Slc5a7	Het	MGP_EEI_007_001	Langerhans cell (LC) count	Ear epidermis immunophenotyping	Female	2	MGI:1927126

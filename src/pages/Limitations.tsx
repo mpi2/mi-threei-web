@@ -1,10 +1,20 @@
 import React, { FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Container, Breadcrumb } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 export const Limitations: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">Strengths and Limitations</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/methods">Methods</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>Strengths and Limitations</Breadcrumb.Item>
+      </Breadcrumb>
       <p>
         The strengths of the 3i project are the broadness and depth of its
         phenotyping, and the availability of data for download. The limitations

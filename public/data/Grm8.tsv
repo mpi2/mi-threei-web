@@ -1,0 +1,9 @@
+construct	parameterName	genotype	parameterId	procedureName	gene	mgiAccessionId	displayProcedureName	significanceValue	sex
+tm2a(KOMP)Wtsi	ANA score	Hom	MGP_ANA_001_001	Anti-nuclear antibody assay	Grm8	MGI:1351345	Anti-nuclear Antibodies	2	Female
+tm2a(KOMP)Wtsi	ANA classification	Hom	MGP_ANA_002_001	Anti-nuclear antibody assay	Grm8	MGI:1351345	Anti-nuclear Antibodies	2	Female
+tm2a(KOMP)Wtsi	ANA score	Hom	MGP_ANA_001_001	Anti-nuclear antibody assay	Grm8	MGI:1351345	Anti-nuclear Antibodies	2	Male
+tm2a(KOMP)Wtsi	ANA classification	Hom	MGP_ANA_002_001	Anti-nuclear antibody assay	Grm8	MGI:1351345	Anti-nuclear Antibodies	2	Male
+tm2a(KOMP)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Grm8	MGI:1351345	Ear Epidermis	2	Male
+tm2a(KOMP)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Grm8	MGI:1351345	Ear Epidermis	2	Female
+tm2a(KOMP)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Grm8	MGI:1351345	Ear Epidermis	2	Male
+tm2a(KOMP)Wtsi	Langerhans cell (LC) count	Hom	MGP_EEI_007_001	Ear epidermis immunophenotyping	Grm8	MGI:1351345	Ear Epidermis	2	Female

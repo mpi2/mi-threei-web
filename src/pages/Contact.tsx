@@ -12,6 +12,9 @@ export const Contact: FunctionComponent = () => {
         <Breadcrumb.Item>
           <Link to="/">Home</Link>
         </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/project/">Project</Link>
+        </Breadcrumb.Item>
         <Breadcrumb.Item active>Contact</Breadcrumb.Item>
       </Breadcrumb>
       <p>

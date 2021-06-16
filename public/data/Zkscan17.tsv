@@ -1,0 +1,25 @@
+construct	parameterName	genotype	parameterId	procedureName	gene	mgiAccessionId	displayProcedureName	significanceValue	sex
+tm1b(EUCOMM)Wtsi	ANA score	Het	MGP_ANA_001_001	Anti-nuclear antibody assay	Zkscan17	MGI:2679270	Anti-nuclear Antibodies	2	Female
+tm1b(EUCOMM)Wtsi	ANA classification	Het	MGP_ANA_002_001	Anti-nuclear antibody assay	Zkscan17	MGI:2679270	Anti-nuclear Antibodies	2	Female
+tm1b(EUCOMM)Wtsi	ANA score	Het	MGP_ANA_001_001	Anti-nuclear antibody assay	Zkscan17	MGI:2679270	Anti-nuclear Antibodies	2	Male
+tm1b(EUCOMM)Wtsi	ANA classification	Het	MGP_ANA_002_001	Anti-nuclear antibody assay	Zkscan17	MGI:2679270	Anti-nuclear Antibodies	2	Male
+tm1b(EUCOMM)Wtsi	Average branch length of LC	Het	MGP_EEI_028_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average branch length of LC	Het	MGP_EEI_028_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Average branch length of LC	Het	MGP_EEI_028_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average branch length of LC	Het	MGP_EEI_028_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Average no of branches on LC	Het	MGP_EEI_024_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average no of branches on LC	Het	MGP_EEI_024_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Average no of branches on LC	Het	MGP_EEI_024_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average no of branches on LC	Het	MGP_EEI_024_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Average roundness of LC	Het	MGP_EEI_020_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average roundness of LC	Het	MGP_EEI_020_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Average roundness of LC	Het	MGP_EEI_020_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average roundness of LC	Het	MGP_EEI_020_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Average volume of LC	Het	MGP_EEI_015_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average volume of LC	Het	MGP_EEI_015_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Average volume of LC	Het	MGP_EEI_015_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Average volume of LC	Het	MGP_EEI_015_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Het	MGP_EEI_007_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Het	MGP_EEI_007_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Het	MGP_EEI_007_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Male
+tm1b(EUCOMM)Wtsi	Langerhans cell (LC) count	Het	MGP_EEI_007_001	Ear epidermis immunophenotyping	Zkscan17	MGI:2679270	Ear Epidermis	2	Female

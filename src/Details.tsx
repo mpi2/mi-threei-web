@@ -114,7 +114,7 @@ export const Details: FunctionComponent<IDetailsProps> = ({
           <Link to="/">Home</Link>
         </Breadcrumb.Item>
         <Breadcrumb.Item>
-          <Link to="/data/downloads">Data</Link>
+          <Link to="/data/">Data</Link>
         </Breadcrumb.Item>
         <Breadcrumb.Item active>{gene}</Breadcrumb.Item>
       </Breadcrumb>

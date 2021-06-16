@@ -1,10 +1,20 @@
 import React, { FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Container, Breadcrumb } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 export const Downloads: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">Raw Data Downloads</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/data/">Data</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>Downloads</Breadcrumb.Item>
+      </Breadcrumb>
       <p>
         Data for specific genes and assays: access through the heat map on our
         landing page. Click through until you see a graph of interest and obtain
@@ -164,17 +174,20 @@ export const Downloads: FunctionComponent = () => {
           </a>
         </li>
       </ul>
-      <h3>
-        Cytotoxic T cell
-        <a
-          href="ftp://ftp.ebi.ac.uk/pub/databases/impc/3i/forwebsite/3i_cytotoxic_T_cells.csv"
-          target="_blank"
-          rel="noreferrer"
-        >
-          data
-        </a>
-        DSS colitis
-      </h3>
+      <h3>Cytotoxic T cell</h3>
+      <ul>
+        <li>
+          <a
+            href="ftp://ftp.ebi.ac.uk/pub/databases/impc/3i/forwebsite/3i_cytotoxic_T_cells.csv"
+            target="_blank"
+            rel="noreferrer"
+          >
+            data
+          </a>
+        </li>
+      </ul>
+      <h3> DSS colitis</h3>
+
       <ul>
         <li>
           <a

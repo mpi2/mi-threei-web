@@ -44,7 +44,7 @@ export const Home: FunctionComponent = () => {
     filteredData.length * 20 > 500 ? filteredData.length * 20 : 500;
 
   useEffect(() => {
-    const heatmapUrl = `${process.env.PUBLIC_URL}/three-i-${
+    const heatmapUrl = `${process.env.PUBLIC_URL}/${
       exploreBy === "cell-type" ? "cell" : "procedure"
     }-heatmap.json`;
     fetch(heatmapUrl)

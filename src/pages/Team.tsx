@@ -1,10 +1,20 @@
 import React, { FunctionComponent } from "react";
-import { Container } from "react-bootstrap";
+import { Breadcrumb, Container } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 export const Team: FunctionComponent = () => {
   return (
     <Container className="mt-5 mb-5">
       <h1 className="mb-5">Team &amp; Collaborators</h1>
+      <Breadcrumb className="bg-white">
+        <Breadcrumb.Item>
+          <Link to="/">Home</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item>
+          <Link to="/project/">Project</Link>
+        </Breadcrumb.Item>
+        <Breadcrumb.Item active>Team &amp; Collaborators</Breadcrumb.Item>
+      </Breadcrumb>
       <p>
         This project wouldn&rsquo;t have been possible without the contribution
         of many, many people. In total, almost 30 people have been employed on
