@@ -1,0 +1,519 @@
+construct	parameterName	genotype	parameterId	procedureName	gene	mgiAccessionId	displayProcedureName	significanceValue	sex
+tm2a(KOMP)Wtsi	B1a cells - % of CD45+	Hom	MGP_MLN_094_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	B1a cells - % of CD45+	Hom	MGP_MLN_094_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD4+	Hom	MGP_MLN_004_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD4+	Hom	MGP_MLN_004_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_065_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_065_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of CD45+	Hom	MGP_MLN_079_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of CD45+	Hom	MGP_MLN_079_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of gd T cells	Hom	MGP_MLN_018_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of gd T cells	Hom	MGP_MLN_018_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Early germinal centre B cells - % of CD45+	Hom	MGP_MLN_102_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Early germinal centre B cells - % of CD45+	Hom	MGP_MLN_102_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_MLN_024_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_MLN_024_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD45+	Hom	MGP_MLN_084_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD45+	Hom	MGP_MLN_084_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_088_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_088_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_MLN_005_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_MLN_005_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_066_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_066_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD45+	Hom	MGP_MLN_074_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD45+	Hom	MGP_MLN_074_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD8+	Hom	MGP_MLN_013_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD8+	Hom	MGP_MLN_013_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector gd cells - % of CD45+	Hom	MGP_MLN_080_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector gd cells - % of CD45+	Hom	MGP_MLN_080_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector gd T cells - % of gd T cells	Hom	MGP_MLN_019_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector gd T cells - % of gd T cells	Hom	MGP_MLN_019_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector NK cells - % of CD45+	Hom	MGP_MLN_091_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector NK cells - % of CD45+	Hom	MGP_MLN_091_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector NK cells - % of NK cells	Hom	MGP_MLN_032_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector NK cells - % of NK cells	Hom	MGP_MLN_032_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector Treg cells - % of CD45+	Hom	MGP_MLN_070_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector Treg cells - % of CD45+	Hom	MGP_MLN_070_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector Treg cells - % of Treg	Hom	MGP_MLN_009_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector Treg cells - % of Treg	Hom	MGP_MLN_009_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Eosinophils - % of CD45+	Hom	MGP_MLN_113_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Eosinophils - % of CD45+	Hom	MGP_MLN_113_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Follicular B cells - % of B2 cells	Hom	MGP_MLN_042_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Follicular B cells - % of B2 cells	Hom	MGP_MLN_042_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Follicular B cells - % of CD45+	Hom	MGP_MLN_100_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Follicular B cells - % of CD45+	Hom	MGP_MLN_100_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of B2 cells	Hom	MGP_MLN_043_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of B2 cells	Hom	MGP_MLN_043_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of CD45+	Hom	MGP_MLN_101_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of CD45+	Hom	MGP_MLN_101_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Granulocytes - % of CD45+	Hom	MGP_MLN_111_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Granulocytes - % of CD45+	Hom	MGP_MLN_111_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_MLN_026_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_MLN_026_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD45+	Hom	MGP_MLN_086_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD45+	Hom	MGP_MLN_086_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_MLN_030_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_MLN_030_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_090_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_090_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_MLN_007_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_MLN_007_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_068_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_068_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD45+	Hom	MGP_MLN_077_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD45+	Hom	MGP_MLN_077_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD8+	Hom	MGP_MLN_016_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD8+	Hom	MGP_MLN_016_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of CD45+	Hom	MGP_MLN_082_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of CD45+	Hom	MGP_MLN_082_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of gd T cells	Hom	MGP_MLN_021_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of gd T cells	Hom	MGP_MLN_021_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of CD45+	Hom	MGP_MLN_093_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of CD45+	Hom	MGP_MLN_093_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of NK cells	Hom	MGP_MLN_034_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of NK cells	Hom	MGP_MLN_034_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of CD45+	Hom	MGP_MLN_072_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of CD45+	Hom	MGP_MLN_072_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of Treg	Hom	MGP_MLN_011_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of Treg	Hom	MGP_MLN_011_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Late germinal centre B cells - % of CD45+	Hom	MGP_MLN_103_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Late germinal centre B cells - % of CD45+	Hom	MGP_MLN_103_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Macrophages - % of CD45+	Hom	MGP_MLN_109_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Macrophages - % of CD45+	Hom	MGP_MLN_109_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Memory B cells - % of B2 cells	Hom	MGP_MLN_047_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Memory B cells - % of B2 cells	Hom	MGP_MLN_047_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Memory B cells - % of CD45+	Hom	MGP_MLN_105_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Memory B cells - % of CD45+	Hom	MGP_MLN_105_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Monocytes - % of CD45+	Hom	MGP_MLN_112_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Monocytes - % of CD45+	Hom	MGP_MLN_112_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD45+	Hom	MGP_MLN_076_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD45+	Hom	MGP_MLN_076_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD8+	Hom	MGP_MLN_015_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD8+	Hom	MGP_MLN_015_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Plasma cells - % of B2 cells	Hom	MGP_MLN_046_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Plasma cells - % of B2 cells	Hom	MGP_MLN_046_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Plasma cells - % of CD45+	Hom	MGP_MLN_104_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Plasma cells - % of CD45+	Hom	MGP_MLN_104_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of CD45+	Hom	MGP_MLN_115_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of CD45+	Hom	MGP_MLN_115_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of DC	Hom	MGP_MLN_058_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of DC	Hom	MGP_MLN_058_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_MLN_025_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_MLN_025_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD45+	Hom	MGP_MLN_085_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD45+	Hom	MGP_MLN_085_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_089_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_089_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_MLN_006_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_MLN_006_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_067_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD45+	Hom	MGP_MLN_067_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD45+	Hom	MGP_MLN_075_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD45+	Hom	MGP_MLN_075_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD8+	Hom	MGP_MLN_014_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD8+	Hom	MGP_MLN_014_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting gd T cells - % of CD45+	Hom	MGP_MLN_081_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting gd T cells - % of CD45+	Hom	MGP_MLN_081_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting gd T cells - % of gd T cells	Hom	MGP_MLN_020_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting gd T cells - % of gd T cells	Hom	MGP_MLN_020_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting NK cells - % of CD45+	Hom	MGP_MLN_092_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting NK cells - % of CD45+	Hom	MGP_MLN_092_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting NK cells - % of NK cells	Hom	MGP_MLN_033_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting NK cells - % of NK cells	Hom	MGP_MLN_033_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting Treg cells - % of CD45+	Hom	MGP_MLN_071_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting Treg cells - % of CD45+	Hom	MGP_MLN_071_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting Treg cells - % of Treg	Hom	MGP_MLN_010_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting Treg cells - % of Treg	Hom	MGP_MLN_010_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total ab T cells - % of CD45+	Hom	MGP_MLN_063_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total ab T cells - % of CD45+	Hom	MGP_MLN_063_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total B cells - % of CD45+	Hom	MGP_MLN_035_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total B cells - % of CD45+	Hom	MGP_MLN_035_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total B2 cells - % of CD45+	Hom	MGP_MLN_095_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total B2 cells - % of CD45+	Hom	MGP_MLN_095_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of CD45+	Hom	MGP_MLN_083_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of CD45+	Hom	MGP_MLN_083_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of NKT cells	Hom	MGP_MLN_023_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of NKT cells	Hom	MGP_MLN_023_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_087_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of CD45+	Hom	MGP_MLN_087_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of NKT cells	Hom	MGP_MLN_027_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of NKT cells	Hom	MGP_MLN_027_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of ab T cells	Hom	MGP_MLN_003_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of ab T cells	Hom	MGP_MLN_003_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of CD45+	Hom	MGP_MLN_064_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of CD45+	Hom	MGP_MLN_064_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of ab T cells	Hom	MGP_MLN_012_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of ab T cells	Hom	MGP_MLN_012_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of CD45+	Hom	MGP_MLN_073_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of CD45+	Hom	MGP_MLN_073_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total DC - % of CD45+	Hom	MGP_MLN_114_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total DC - % of CD45+	Hom	MGP_MLN_114_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total gd T cells - % of CD45+	Hom	MGP_MLN_078_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total gd T cells - % of CD45+	Hom	MGP_MLN_078_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total NK cells - % of CD45+	Hom	MGP_MLN_031_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total NK cells - % of CD45+	Hom	MGP_MLN_031_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total NKT cells - % of CD45+	Hom	MGP_MLN_022_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total NKT cells - % of CD45+	Hom	MGP_MLN_022_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total T cells - % of CD45+	Hom	MGP_MLN_001_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total T cells - % of CD45+	Hom	MGP_MLN_001_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD4+	Hom	MGP_MLN_008_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD4+	Hom	MGP_MLN_008_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD45+	Hom	MGP_MLN_069_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD45+	Hom	MGP_MLN_069_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Conventional CD11b type DC - % of cDC	Hom	MGP_MLN_060_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Conventional CD11b type DC - % of cDC	Hom	MGP_MLN_060_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Conventional CD8a type DC - % of CD45+	Hom	MGP_MLN_118_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Conventional CD8a type DC - % of CD45+	Hom	MGP_MLN_118_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Conventional CD8a type DC - % of cDC	Hom	MGP_MLN_061_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Conventional CD8a type DC - % of cDC	Hom	MGP_MLN_061_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	CD103+ CD8a type DC - % of CD8 type cDC	Hom	MGP_MLN_062_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	CD103+ CD8a type DC - % of CD8 type cDC	Hom	MGP_MLN_062_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	CD103+ CD8a type DC - % of CD45+	Hom	MGP_MLN_119_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	CD103+ CD8a type DC - % of CD45+	Hom	MGP_MLN_119_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Conventional DC - % of CD45+	Hom	MGP_MLN_116_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Conventional DC - % of CD45+	Hom	MGP_MLN_116_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Conventional CD11b type DC - % of CD45+	Hom	MGP_MLN_117_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Conventional CD11b type DC - % of CD45+	Hom	MGP_MLN_117_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_MLN_028_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_MLN_028_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_MLN_029_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_MLN_029_001	Mesenteric Lymph Node Immunophenotyping	Ptprd	MGI:97812	Mesenteric Lymph Node	2	Female
+tm2a(KOMP)Wtsi	Granulocytes - % of CD45+	Hom	MGP_BMI_016_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Granulocytes - % of CD45+	Hom	MGP_BMI_016_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Immature B cells (Hardy fraction E) - % of B220+	Hom	MGP_BMI_006_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Immature B cells (Hardy fraction E) - % of B220+	Hom	MGP_BMI_006_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Immature B cells (Hardy fraction E) - % of CD45+	Hom	MGP_BMI_013_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Immature B cells (Hardy fraction E) - % of CD45+	Hom	MGP_BMI_013_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Mature B cells (Hardy fraction F) - % of B220+	Hom	MGP_BMI_007_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Mature B cells (Hardy fraction F) - % of B220+	Hom	MGP_BMI_007_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Mature B cells (Hardy fraction F) - % of CD45+	Hom	MGP_BMI_014_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Mature B cells (Hardy fraction F) - % of CD45+	Hom	MGP_BMI_014_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Myeloid cells - % of CD45+	Hom	MGP_BMI_017_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Myeloid cells - % of CD45+	Hom	MGP_BMI_017_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Plasma cells - % of CD45+	Hom	MGP_BMI_018_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Plasma cells - % of CD45+	Hom	MGP_BMI_018_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pre-B cells (Hardy fraction D) - % of B220+	Hom	MGP_BMI_005_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pre-B cells (Hardy fraction D) - % of B220+	Hom	MGP_BMI_005_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pre-B cells (Hardy fraction D) - % of CD45+	Hom	MGP_BMI_012_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pre-B cells (Hardy fraction D) - % of CD45+	Hom	MGP_BMI_012_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pre-pro B cells (Hardy fraction A) - % of B220+	Hom	MGP_BMI_001_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pre-pro B cells (Hardy fraction A) - % of B220+	Hom	MGP_BMI_001_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pre-pro B cells (Hardy fraction A) - % of CD45+	Hom	MGP_BMI_008_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pre-pro B cells (Hardy fraction A) - % of CD45+	Hom	MGP_BMI_008_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction B) - % of B220+	Hom	MGP_BMI_003_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction B) - % of B220+	Hom	MGP_BMI_003_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction B) - % of CD45+	Hom	MGP_BMI_010_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction B) - % of CD45+	Hom	MGP_BMI_010_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction C) - % of B220+	Hom	MGP_BMI_004_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction C) - % of B220+	Hom	MGP_BMI_004_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction C) - % of CD45+	Hom	MGP_BMI_011_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Pro-B cells (Hardy fraction C) - % of CD45+	Hom	MGP_BMI_011_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	T cells - % of CD45+	Hom	MGP_BMI_019_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	T cells - % of CD45+	Hom	MGP_BMI_019_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	Total B cells - % of CD45+	Hom	MGP_BMI_015_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Male
+tm2a(KOMP)Wtsi	Total B cells - % of CD45+	Hom	MGP_BMI_015_001	Bone marrow immunophenotyping	Ptprd	MGI:97812	Bone Marrow	2	Female
+tm2a(KOMP)Wtsi	B1a cells - % of CD45+	Hom	MGP_IMM_106_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	B1a cells - % of CD45+	Hom	MGP_IMM_106_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD103+ CD11b-low cDC - % of CD11b-low cDC	Hom	MGP_IMM_068_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD103+ CD11b-low cDC - % of CD11b-low cDC	Hom	MGP_IMM_068_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD103+ CD11b-low cDC - % of CD45+	Hom	MGP_IMM_131_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD103+ CD11b-low cDC - % of CD45+	Hom	MGP_IMM_131_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD11b-high cDC - % of CD45+	Hom	MGP_IMM_129_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD11b-high cDC - % of CD45+	Hom	MGP_IMM_129_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD11b-high cDC - % of cDC	Hom	MGP_IMM_066_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD11b-high cDC - % of cDC	Hom	MGP_IMM_066_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD11b-low cDC - % of CD45+	Hom	MGP_IMM_130_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD11b-low cDC - % of CD45+	Hom	MGP_IMM_130_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD11b-low cDC - % of cDC	Hom	MGP_IMM_067_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD11b-low cDC - % of cDC	Hom	MGP_IMM_067_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD4+	Hom	MGP_IMM_005_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD4+	Hom	MGP_IMM_005_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_072_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_072_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of CD45+	Hom	MGP_IMM_086_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of CD45+	Hom	MGP_IMM_086_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of gd T cells	Hom	MGP_IMM_019_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	CD5+ gd T cells - % of gd T cells	Hom	MGP_IMM_019_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Conventional DC (cDC) - % of CD45+	Hom	MGP_IMM_128_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Conventional DC (cDC) - % of CD45+	Hom	MGP_IMM_128_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Conventional DC (cDC) - % of DC	Hom	MGP_IMM_065_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Conventional DC (cDC) - % of DC	Hom	MGP_IMM_065_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Early germinal centre B cells - % of CD45+	Hom	MGP_IMM_114_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Early germinal centre B cells - % of CD45+	Hom	MGP_IMM_114_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Early germinal centre B cells - % of GC cells	Hom	MGP_IMM_050_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Early germinal centre B cells - % of GC cells	Hom	MGP_IMM_050_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_IMM_026_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_IMM_026_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD45+	Hom	MGP_IMM_092_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD4- NKT cells - % of CD45+	Hom	MGP_IMM_092_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_IMM_030_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_IMM_030_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_096_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_096_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_IMM_006_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_IMM_006_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_073_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_073_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD45+	Hom	MGP_IMM_081_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD45+	Hom	MGP_IMM_081_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD8+	Hom	MGP_IMM_014_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector CD8+ T cells - % of CD8+	Hom	MGP_IMM_014_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector gd cells - % of CD45+	Hom	MGP_IMM_087_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector gd cells - % of CD45+	Hom	MGP_IMM_087_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector gd T cells - % of gd T cells	Hom	MGP_IMM_020_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector gd T cells - % of gd T cells	Hom	MGP_IMM_020_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector NK cells - % of CD45+	Hom	MGP_IMM_099_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector NK cells - % of CD45+	Hom	MGP_IMM_099_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector NK cells - % of NK cells	Hom	MGP_IMM_034_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector NK cells - % of NK cells	Hom	MGP_IMM_034_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector Treg cells - % of CD45+	Hom	MGP_IMM_077_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector Treg cells - % of CD45+	Hom	MGP_IMM_077_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Effector Treg cells - % of Treg	Hom	MGP_IMM_010_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Effector Treg cells - % of Treg	Hom	MGP_IMM_010_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Eosinophils - % of CD45+	Hom	MGP_IMM_125_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Eosinophils - % of CD45+	Hom	MGP_IMM_125_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Follicular B cells - % of B2 cells	Hom	MGP_IMM_048_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Follicular B cells - % of B2 cells	Hom	MGP_IMM_048_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Follicular B cells - % of CD45+	Hom	MGP_IMM_112_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Follicular B cells - % of CD45+	Hom	MGP_IMM_112_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of B2 cells	Hom	MGP_IMM_049_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of B2 cells	Hom	MGP_IMM_049_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of CD45+	Hom	MGP_IMM_113_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Germinal centre B cells - % of CD45+	Hom	MGP_IMM_113_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Granulocytes - % of CD45+	Hom	MGP_IMM_123_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Granulocytes - % of CD45+	Hom	MGP_IMM_123_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Immature NK cells - % of lymphocytes	Hom	MGP_IMM_102_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Immature NK cells - % of lymphocytes	Hom	MGP_IMM_102_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Immature NK cells - % of NK cells	Hom	MGP_IMM_037_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Immature NK cells - % of NK cells	Hom	MGP_IMM_037_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_IMM_028_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_IMM_028_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD45+	Hom	MGP_IMM_094_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4- NKT cells - % of CD45+	Hom	MGP_IMM_094_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_098_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_098_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_IMM_008_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_IMM_008_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_075_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_075_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD45+	Hom	MGP_IMM_084_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD45+	Hom	MGP_IMM_084_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD8+	Hom	MGP_IMM_017_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD8+ T cells - % of CD8+	Hom	MGP_IMM_017_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of CD45+	Hom	MGP_IMM_089_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of CD45+	Hom	MGP_IMM_089_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of gd T cells	Hom	MGP_IMM_022_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ gd T cells - % of gd T cells	Hom	MGP_IMM_022_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of CD45+	Hom	MGP_IMM_101_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of CD45+	Hom	MGP_IMM_101_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of NK cells	Hom	MGP_IMM_036_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ NK cells - % of NK cells	Hom	MGP_IMM_036_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of CD45+	Hom	MGP_IMM_079_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of CD45+	Hom	MGP_IMM_079_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of Treg	Hom	MGP_IMM_012_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ Treg cells - % of Treg	Hom	MGP_IMM_012_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Late germinal centre B cells - % of CD45+	Hom	MGP_IMM_115_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Late germinal centre B cells - % of CD45+	Hom	MGP_IMM_115_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Late germinal centre B cells - % of GC cells	Hom	MGP_IMM_051_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Late germinal centre B cells - % of GC cells	Hom	MGP_IMM_051_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Ly6C+ immature NK cells - % of immature NK cells	Hom	MGP_IMM_038_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Ly6C+ immature NK cells - % of immature NK cells	Hom	MGP_IMM_038_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Ly6C+ immature NK cells - % of lymphocytes	Hom	MGP_IMM_103_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Ly6C+ immature NK cells - % of lymphocytes	Hom	MGP_IMM_103_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Ly6C+ mature NK cells - % of lymphocytes	Hom	MGP_IMM_105_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Ly6C+ mature NK cells - % of lymphocytes	Hom	MGP_IMM_105_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Ly6C+ mature NK cells - % of mature NK cells	Hom	MGP_IMM_040_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Ly6C+ mature NK cells - % of mature NK cells	Hom	MGP_IMM_040_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Ly6C+ NKT cells - % of lymphocytes	Hom	MGP_IMM_090_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Ly6C+ NKT cells - % of lymphocytes	Hom	MGP_IMM_090_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Ly6C+ NKT cells - % of NKT cells	Hom	MGP_IMM_024_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Ly6C+ NKT cells - % of NKT cells	Hom	MGP_IMM_024_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Macrophages - % of CD45+	Hom	MGP_IMM_121_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Macrophages - % of CD45+	Hom	MGP_IMM_121_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Marginal zone B cells - % of B2 cells	Hom	MGP_IMM_044_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Marginal zone B cells - % of B2 cells	Hom	MGP_IMM_044_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Marginal zone B cells - % of CD45+	Hom	MGP_IMM_108_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Marginal zone B cells - % of CD45+	Hom	MGP_IMM_108_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Marginal zone precursor B cells - % of B2 cells	Hom	MGP_IMM_045_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Marginal zone precursor B cells - % of B2 cells	Hom	MGP_IMM_045_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Marginal zone precursor B cells - % of CD45+	Hom	MGP_IMM_109_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Marginal zone precursor B cells - % of CD45+	Hom	MGP_IMM_109_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Mature NK cells - % of lymphocytes	Hom	MGP_IMM_104_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Mature NK cells - % of lymphocytes	Hom	MGP_IMM_104_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Mature NK cells - % of NK cellls	Hom	MGP_IMM_039_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Mature NK cells - % of NK cellls	Hom	MGP_IMM_039_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Monocytes - % of CD45+	Hom	MGP_IMM_124_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Monocytes - % of CD45+	Hom	MGP_IMM_124_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD45+	Hom	MGP_IMM_083_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD45+	Hom	MGP_IMM_083_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD8+	Hom	MGP_IMM_016_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Naive CD8+ T cells - % of CD8+	Hom	MGP_IMM_016_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Plasma cells - % of B2 cells	Hom	MGP_IMM_052_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Plasma cells - % of B2 cells	Hom	MGP_IMM_052_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Plasma cells - % of CD45+	Hom	MGP_IMM_116_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Plasma cells - % of CD45+	Hom	MGP_IMM_116_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of CD45+	Hom	MGP_IMM_127_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of CD45+	Hom	MGP_IMM_127_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of DC	Hom	MGP_IMM_064_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Plasmacytoid DC - % of DC	Hom	MGP_IMM_064_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_IMM_027_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD4- NKT cells	Hom	MGP_IMM_027_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD45+	Hom	MGP_IMM_093_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD4- NKT cells - % of CD45+	Hom	MGP_IMM_093_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_IMM_031_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_IMM_031_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_097_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_097_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_IMM_007_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD4+ T helper cells	Hom	MGP_IMM_007_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_074_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD4+ T helper cells - % of CD45+	Hom	MGP_IMM_074_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD45+	Hom	MGP_IMM_082_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD45+	Hom	MGP_IMM_082_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD8+	Hom	MGP_IMM_015_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting CD8+ T cells - % of CD8+	Hom	MGP_IMM_015_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting gd T cells - % of CD45+	Hom	MGP_IMM_088_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting gd T cells - % of CD45+	Hom	MGP_IMM_088_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting gd T cells - % of gd T cells	Hom	MGP_IMM_021_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting gd T cells - % of gd T cells	Hom	MGP_IMM_021_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting NK cells - % of CD45+	Hom	MGP_IMM_100_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting NK cells - % of CD45+	Hom	MGP_IMM_100_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting NK cells - % of NK cells	Hom	MGP_IMM_035_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting NK cells - % of NK cells	Hom	MGP_IMM_035_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting Treg cells - % of CD45+	Hom	MGP_IMM_078_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting Treg cells - % of CD45+	Hom	MGP_IMM_078_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Resting Treg cells - % of Treg	Hom	MGP_IMM_011_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Resting Treg cells - % of Treg	Hom	MGP_IMM_011_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total ab T cells - % of CD45+	Hom	MGP_IMM_070_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total ab T cells - % of CD45+	Hom	MGP_IMM_070_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total B cells - % of CD45+	Hom	MGP_IMM_041_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total B cells - % of CD45+	Hom	MGP_IMM_041_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total B2 cells - % of CD45+	Hom	MGP_IMM_107_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total B2 cells - % of CD45+	Hom	MGP_IMM_107_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of CD45+	Hom	MGP_IMM_091_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of CD45+	Hom	MGP_IMM_091_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of NKT cells	Hom	MGP_IMM_025_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD4- NKT cells - % of NKT cells	Hom	MGP_IMM_025_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_095_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of CD45+	Hom	MGP_IMM_095_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of NKT cells	Hom	MGP_IMM_029_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ NKT cells - % of NKT cells	Hom	MGP_IMM_029_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of ab T cells	Hom	MGP_IMM_004_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of ab T cells	Hom	MGP_IMM_004_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of CD45+	Hom	MGP_IMM_071_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD4+ T cells - % of CD45+	Hom	MGP_IMM_071_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of ab T cells	Hom	MGP_IMM_013_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of ab T cells	Hom	MGP_IMM_013_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of CD45+	Hom	MGP_IMM_080_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total CD8+ T cells - % of CD45+	Hom	MGP_IMM_080_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total DC - % of CD45+	Hom	MGP_IMM_126_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total DC - % of CD45+	Hom	MGP_IMM_126_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total gd T cells - % of CD45+	Hom	MGP_IMM_085_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total gd T cells - % of CD45+	Hom	MGP_IMM_085_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total NK cells - % of CD45+	Hom	MGP_IMM_033_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total NK cells - % of CD45+	Hom	MGP_IMM_033_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total NKT cells - % of CD45+	Hom	MGP_IMM_023_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total NKT cells - % of CD45+	Hom	MGP_IMM_023_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total T cells - % of CD45+	Hom	MGP_IMM_001_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total T cells - % of CD45+	Hom	MGP_IMM_001_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD4+	Hom	MGP_IMM_009_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD4+	Hom	MGP_IMM_009_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD45+	Hom	MGP_IMM_076_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Total Treg cells - % of CD45+	Hom	MGP_IMM_076_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Transitional 1 B cells - % of B2 cells	Hom	MGP_IMM_046_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Transitional 1 B cells - % of B2 cells	Hom	MGP_IMM_046_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Transitional 1 B cells - % of CD45+	Hom	MGP_IMM_110_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Transitional 1 B cells - % of CD45+	Hom	MGP_IMM_110_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Transitional 2 B cells - % of B2 cells	Hom	MGP_IMM_047_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Transitional 2 B cells - % of B2 cells	Hom	MGP_IMM_047_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Transitional 2 B cells - % of CD45+	Hom	MGP_IMM_111_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Transitional 2 B cells - % of CD45+	Hom	MGP_IMM_111_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_IMM_032_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ CD4+ NKT cells - % of CD4+ NKT cells	Hom	MGP_IMM_032_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Memory B cells - % of B2 cells	Hom	MGP_IMM_053_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Memory B cells - % of B2 cells	Hom	MGP_IMM_053_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Memory B cells - % of CD45+	Hom	MGP_IMM_117_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Male
+tm2a(KOMP)Wtsi	Memory B cells - % of CD45+	Hom	MGP_IMM_117_001	Spleen Immuno Phenotyping	Ptprd	MGI:97812	Spleen	2	Female
+tm2a(KOMP)Wtsi	Total T cell percentage	Hom	MGP_PBI_001_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Total T cell percentage	Hom	MGP_PBI_001_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Alpha beta T cell percentage	Hom	MGP_PBI_002_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Alpha beta T cell percentage	Hom	MGP_PBI_002_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ alpha beta T cell percentage	Hom	MGP_PBI_003_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ alpha beta T cell percentage	Hom	MGP_PBI_003_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD8+ alpha beta T cell percentage	Hom	MGP_PBI_004_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD8+ alpha beta T cell percentage	Hom	MGP_PBI_004_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Gamma delta T cell percentage	Hom	MGP_PBI_005_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Gamma delta T cell percentage	Hom	MGP_PBI_005_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	NKT cell percentage	Hom	MGP_PBI_006_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	NKT cell percentage	Hom	MGP_PBI_006_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	NK cell percentage	Hom	MGP_PBI_007_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	NK cell percentage	Hom	MGP_PBI_007_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ CD25+ alpha beta regulatory T cell percentage	Hom	MGP_PBI_008_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ CD25+ alpha beta regulatory T cell percentage	Hom	MGP_PBI_008_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ CD44+ CD62L- alpha beta effector T cell percentage	Hom	MGP_PBI_009_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ CD44+ CD62L- alpha beta effector T cell percentage	Hom	MGP_PBI_009_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD8+ CD44+ CD62L- alpha beta effector T cell percentage	Hom	MGP_PBI_010_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD8+ CD44+ CD62L- alpha beta effector T cell percentage	Hom	MGP_PBI_010_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ mature NK cell percentage	Hom	MGP_PBI_011_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ mature NK cell percentage	Hom	MGP_PBI_011_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ KLRG1+ alpha beta T cell percentage	Hom	MGP_PBI_012_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ KLRG1+ alpha beta T cell percentage	Hom	MGP_PBI_012_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD8+ KLRG1+ alpha beta T cell percentage	Hom	MGP_PBI_013_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD8+ KLRG1+ alpha beta T cell percentage	Hom	MGP_PBI_013_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	B cell percentage	Hom	MGP_PBI_014_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	B cell percentage	Hom	MGP_PBI_014_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	IgD+ mature B cell percentage	Hom	MGP_PBI_015_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	IgD+ mature B cell percentage	Hom	MGP_PBI_015_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Monocyte percentage	Hom	MGP_PBI_016_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Monocyte percentage	Hom	MGP_PBI_016_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Ly6Chigh monocyte percentage	Hom	MGP_PBI_017_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Ly6Chigh monocyte percentage	Hom	MGP_PBI_017_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Ly6Clow monocyte percentage	Hom	MGP_PBI_018_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Ly6Clow monocyte percentage	Hom	MGP_PBI_018_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Neutrophil percentage	Hom	MGP_PBI_019_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Neutrophil percentage	Hom	MGP_PBI_019_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Eosinophil percentage	Hom	MGP_PBI_020_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Eosinophil percentage	Hom	MGP_PBI_020_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Total T cell number	Hom	MGP_PBI_021_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Total T cell number	Hom	MGP_PBI_021_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Alpha beta T cell number	Hom	MGP_PBI_022_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Alpha beta T cell number	Hom	MGP_PBI_022_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ alpha beta T cell number	Hom	MGP_PBI_023_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ alpha beta T cell number	Hom	MGP_PBI_023_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD8+ alpha beta T cell number	Hom	MGP_PBI_024_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD8+ alpha beta T cell number	Hom	MGP_PBI_024_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Gamma delta T cell number	Hom	MGP_PBI_025_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Gamma delta T cell number	Hom	MGP_PBI_025_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	NKT cell number	Hom	MGP_PBI_026_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	NKT cell number	Hom	MGP_PBI_026_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	NK cell number	Hom	MGP_PBI_027_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	NK cell number	Hom	MGP_PBI_027_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ CD25+ alpha beta regulatory T cell number	Hom	MGP_PBI_028_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ CD25+ alpha beta regulatory T cell number	Hom	MGP_PBI_028_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ CD44+ CD62L- alpha beta effector T cell number	Hom	MGP_PBI_029_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ CD44+ CD62L- alpha beta effector T cell number	Hom	MGP_PBI_029_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD8+ CD44+ CD62L- alpha beta effector T cell number	Hom	MGP_PBI_030_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD8+ CD44+ CD62L- alpha beta effector T cell number	Hom	MGP_PBI_030_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	KLRG1+ mature NK cell number	Hom	MGP_PBI_031_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	KLRG1+ mature NK cell number	Hom	MGP_PBI_031_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD4+ KLRG1+ alpha beta T cell number	Hom	MGP_PBI_032_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD4+ KLRG1+ alpha beta T cell number	Hom	MGP_PBI_032_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	CD8+ KLRG1+ alpha beta T cell number	Hom	MGP_PBI_033_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	CD8+ KLRG1+ alpha beta T cell number	Hom	MGP_PBI_033_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	B cell number	Hom	MGP_PBI_034_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	B cell number	Hom	MGP_PBI_034_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	IgD+ mature B cell number	Hom	MGP_PBI_035_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	IgD+ mature B cell number	Hom	MGP_PBI_035_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Monocyte number	Hom	MGP_PBI_036_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Monocyte number	Hom	MGP_PBI_036_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Ly6Chigh monocyte number	Hom	MGP_PBI_037_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Ly6Chigh monocyte number	Hom	MGP_PBI_037_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Ly6Clow monocyte number	Hom	MGP_PBI_038_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Ly6Clow monocyte number	Hom	MGP_PBI_038_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Neutrophil number	Hom	MGP_PBI_039_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Neutrophil number	Hom	MGP_PBI_039_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	Eosinophil number	Hom	MGP_PBI_040_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Female
+tm2a(KOMP)Wtsi	Eosinophil number	Hom	MGP_PBI_040_001	Whole blood peripheral blood leukocyte immunophenotyping	Ptprd	MGI:97812	Peripheral Blood Leukocytes	2	Male
+tm2a(KOMP)Wtsi	ANA classification	Hom	MGP_ANA_002_001	Anti-nuclear antibody assay	Ptprd	MGI:97812	Anti-nuclear Antibodies	1	Female
+tm2a(KOMP)Wtsi	ANA classification	Hom	MGP_ANA_002_001	Anti-nuclear antibody assay	Ptprd	MGI:97812	Anti-nuclear Antibodies	1	Male

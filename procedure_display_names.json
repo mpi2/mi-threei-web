@@ -1,0 +1,114 @@
+[
+  {
+    "_id": {
+      "procedure": "Antigen Specific Immunoglobulin Assay",
+      "display": "Salmonella Challenge"
+    },
+    "count": 13
+  },
+  {
+    "_id": {
+      "procedure": "Fertility of Homozygous Knock-out Mice",
+      "display": "Homozygous Fertility"
+    },
+    "count": 528
+  },
+  {
+    "_id": {
+      "procedure": "3i Trichurus Challenge",
+      "display": "Trichuris Challenge"
+    },
+    "count": 440
+  },
+  {
+    "_id": {
+      "procedure": "Buffy coat peripheral blood leukocyte immunophenotyping",
+      "display": "Peripheral Blood Leukocytes"
+    },
+    "count": 1416
+  },
+  {
+    "_id": {
+      "procedure": "CTL assay",
+      "display": "Cytotoxic T Cell Function"
+    },
+    "count": 896
+  },
+  {
+    "_id": {
+      "procedure": "Mesenteric Lymph Node Immunophenotyping",
+      "display": "Mesenteric Lymph Node"
+    },
+    "count": 104130
+  },
+  {
+    "_id": {
+      "procedure": "Spleen Immuno Phenotyping",
+      "display": "Spleen"
+    },
+    "count": 116260
+  },
+  {
+    "_id": {
+      "procedure": "Whole blood peripheral blood leukocyte immunophenotyping",
+      "display": "Peripheral Blood Leukocytes"
+    },
+    "count": 39800
+  },
+  {
+    "_id": {
+      "procedure": "3i DSS Challenge",
+      "display": "DSS Challenge"
+    },
+    "count": 1849
+  },
+  {
+    "_id": {
+      "procedure": "Bone marrow immunophenotyping",
+      "display": "Bone Marrow"
+    },
+    "count": 17050
+  },
+  {
+    "_id": {
+      "procedure": "Salmonella Challenge",
+      "display": "Salmonella Challenge"
+    },
+    "count": 535
+  },
+  {
+    "_id": {
+      "procedure": "Ear epidermis immunophenotyping",
+      "display": "Ear Epidermis"
+    },
+    "count": 25151
+  },
+  {
+    "_id": {
+      "procedure": "Infection Challenge Weights",
+      "display": "Influenza"
+    },
+    "count": 945
+  },
+  {
+    "_id": {
+      "procedure": "Viability Primary Screen",
+      "display": "Homozygous viability at P14"
+    },
+    "count": 528
+  },
+  {
+    "_id": {
+      "procedure": "Anti-nuclear antibody assay",
+      "display": "Anti-nuclear Antibodies"
+    },
+    "count": 2036
+  },
+  {
+    "_id": {
+      "procedure": "Haematology",
+      "display": "Haematology"
+    },
+    "count": 10750
+  }
+]
