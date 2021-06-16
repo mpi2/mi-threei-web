@@ -139,7 +139,9 @@ export const MainNav: FunctionComponent<RouteComponentProps> = ({
                   </NavDropdown>
                 );
               }
-            })}
+            }
+            )}
+            <Nav.Link href="https://www.immunophenotype.org/">COVID-IP</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
