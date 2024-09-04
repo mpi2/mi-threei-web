@@ -1,7 +1,7 @@
 //@ts-nocheck
 import React, { FunctionComponent } from "react";
 import { Accordion, Card, Container, Breadcrumb } from "react-bootstrap";
-import TableauReport from "tableau-react-embed";
+import { TableauEmbed } from "@stoddabr/react-tableau-embed-live";
 import { Link } from "react-router-dom";
 export const StatisticalDesign: FunctionComponent = () => {
   return (
@@ -66,7 +66,16 @@ export const StatisticalDesign: FunctionComponent = () => {
           </Card>
         ))}
       </Accordion>
-      <TableauReport url="https://public.tableau.com/views/MapoftheMouseImmuneSystem/3iFlowData?:embed=y&:display_count=y&:showTabs=y&:origin=viz_share_link" />
+      <h2 className="mt-5 mb-3">Data visualization</h2>
+      <p>
+        <a
+          href="https://public.tableau.com/shared/JHM7T4Y95?:display_count=n&:origin=viz_share_link&:embed=y"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          View Tableu Dashboard for the Map of the Mouse Immune System
+        </a>
+      </p>
     </Container>
   );
 };
