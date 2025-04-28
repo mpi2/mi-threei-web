@@ -29,7 +29,7 @@ export const ThreeiFooter: FunctionComponent = () => {
               </div>
             </Navbar.Brand>
             <a
-              href="https://www.ebi.ac.uk/data-protection/privacy-notice/mousephenotype-org"
+              href="https://ftp.ebi.ac.uk/pub/databases/impc/other/privacy-notices/Privacy-notice-for-IMPC-mousephenotype.org-EMBL-EBI.pdf"
               target="_blank"
               rel="noreferrer"
               className="text-light text-center"
