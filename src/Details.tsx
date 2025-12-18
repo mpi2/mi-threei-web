@@ -137,7 +137,7 @@ export const Details: FunctionComponent<IDetailsProps> = ({
                   style={{ cursor: "pointer" }}
                   onClick={() => {
                     window.open(
-                      `https://mousephenotype.org/data/genes/MGI:1914792?dataQuery=${v.parameterId}&dataSearch=${v.Assay}&dataLifeStage=Early%20adult`
+                      `https://www.mousephenotype.org/data/genes/MGI:1914792?dataQuery=${v.parameterId}&dataSearch=${v.Assay}&dataLifeStage=Early%20adult`
                     );
                   }}
                 >
