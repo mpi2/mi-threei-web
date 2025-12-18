@@ -71,6 +71,7 @@ export const Details: FunctionComponent<IDetailsProps> = ({
                 parameterId: d.parameterId,
                 Parameter: d.parameterName,
                 Assay: d.displayProcedureName,
+                procedureName: d.procedureName,
                 mgi: d.mgiAccessionId,
               };
               extraCols.forEach((c: string) => {
@@ -137,7 +138,7 @@ export const Details: FunctionComponent<IDetailsProps> = ({
                   style={{ cursor: "pointer" }}
                   onClick={() => {
                     window.open(
-                      `https://www.mousephenotype.org/data/genes/MGI:1914792?dataQuery=${v.parameterId}&dataSearch=${v.Assay}&dataLifeStage=Early%20adult`
+                      `https://www.mousephenotype.org/data/genes/MGI:1914792?dataQuery=${v.parameterId}&dataSearch=${v.procedureName}&dataLifeStage=Early%20adult`
                     );
                   }}
                 >
